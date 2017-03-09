@@ -1,0 +1,22 @@
+:tmi.twitch.tv 001 jackalapples :Welcome, GLHF!
+:tmi.twitch.tv 002 jackalapples :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 jackalapples :This server is rather new
+:tmi.twitch.tv 004 jackalapples :-
+:tmi.twitch.tv 375 jackalapples :-
+:tmi.twitch.tv 372 jackalapples :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 jackalapples :>
+:jackalapples!jackalapples@jackalapples.tmi.twitch.tv JOIN #ogaminglol
+:jackalapples.tmi.twitch.tv 353 jackalapples = #ogaminglol :jackalapples
+:jackalapples.tmi.twitch.tv 366 jackalapples #ogaminglol :End of /NAMES list
+:dark_d3lt4!dark_d3lt4@dark_d3lt4.tmi.twitch.tv PRIVMSG #ogaminglol :GUERRierrrrrr
+:deltafternoon!deltafternoon@deltafternoon.tmi.twitch.tv PRIVMSG #ogaminglol :Kreygasm
+:nilsenhol!nilsenhol@nilsenhol.tmi.twitch.tv PRIVMSG #ogaminglol :Weeeeeee
+:mccall973!mccall973@mccall973.tmi.twitch.tv PRIVMSG #ogaminglol :VIT - GIANTS score ?
+:victzz1!victzz1@victzz1.tmi.twitch.tv PRIVMSG #ogaminglol :Kreygasm
+:abyssian!abyssian@abyssian.tmi.twitch.tv PRIVMSG #ogaminglol :Challenger 1000 LP
+:tijacksh!tijacksh@tijacksh.tmi.twitch.tv PRIVMSG #ogaminglol :1-1
+:stk3702!stk3702@stk3702.tmi.twitch.tv PRIVMSG #ogaminglol :here we are don't turn away now
+:adryanruzlan!adryanruzlan@adryanruzlan.tmi.twitch.tv PRIVMSG #ogaminglol :Vitality sans Dignity. caboCabane cabo123 caboDabra
+:kendjilebg!kendjilebg@kendjilebg.tmi.twitch.tv PRIVMSG #ogaminglol :Nest music world
+:jesulsmalndraven!jesulsmalndraven@jesulsmalndraven.tmi.twitch.tv PRIVMSG #ogaminglol :stou ca joue full sur le mental de bien jouer une game et on t'enleve la victoire pour un bug
+:ecossefreres72!ecossefreres72@ecossefreres72.tmi.twitch.tv PRIVMSG #ogaminglol :C'est quoi la musqiue ??
