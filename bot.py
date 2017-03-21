@@ -8,7 +8,7 @@ PORT = 6667
 NICK = "jackalapples"
 PASS = "oauth:ab0krnwwqxyonvg6d0cn5g1vattcgt"
 CHAN = "#smashstudios"                          #change as needed
-log_file = open("fullLog2.txt", "w")
+log_file = open("fullLog3.txt", "w")
 
 
 s = socket.socket()

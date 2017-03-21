@@ -1,22 +1,930 @@
-:tmi.twitch.tv 001 jackalapples :Welcome, GLHF!
+2017-03-18 15:57:15.903000 :tmi.twitch.tv 001 jackalapples :Welcome, GLHF!
 :tmi.twitch.tv 002 jackalapples :Your host is tmi.twitch.tv
 :tmi.twitch.tv 003 jackalapples :This server is rather new
 :tmi.twitch.tv 004 jackalapples :-
 :tmi.twitch.tv 375 jackalapples :-
 :tmi.twitch.tv 372 jackalapples :You are in a maze of twisty passages, all alike.
 :tmi.twitch.tv 376 jackalapples :>
-:jackalapples!jackalapples@jackalapples.tmi.twitch.tv JOIN #ogaminglol
-:jackalapples.tmi.twitch.tv 353 jackalapples = #ogaminglol :jackalapples
-:jackalapples.tmi.twitch.tv 366 jackalapples #ogaminglol :End of /NAMES list
-:dark_d3lt4!dark_d3lt4@dark_d3lt4.tmi.twitch.tv PRIVMSG #ogaminglol :GUERRierrrrrr
-:deltafternoon!deltafternoon@deltafternoon.tmi.twitch.tv PRIVMSG #ogaminglol :Kreygasm
-:nilsenhol!nilsenhol@nilsenhol.tmi.twitch.tv PRIVMSG #ogaminglol :Weeeeeee
-:mccall973!mccall973@mccall973.tmi.twitch.tv PRIVMSG #ogaminglol :VIT - GIANTS score ?
-:victzz1!victzz1@victzz1.tmi.twitch.tv PRIVMSG #ogaminglol :Kreygasm
-:abyssian!abyssian@abyssian.tmi.twitch.tv PRIVMSG #ogaminglol :Challenger 1000 LP
-:tijacksh!tijacksh@tijacksh.tmi.twitch.tv PRIVMSG #ogaminglol :1-1
-:stk3702!stk3702@stk3702.tmi.twitch.tv PRIVMSG #ogaminglol :here we are don't turn away now
-:adryanruzlan!adryanruzlan@adryanruzlan.tmi.twitch.tv PRIVMSG #ogaminglol :Vitality sans Dignity. caboCabane cabo123 caboDabra
-:kendjilebg!kendjilebg@kendjilebg.tmi.twitch.tv PRIVMSG #ogaminglol :Nest music world
-:jesulsmalndraven!jesulsmalndraven@jesulsmalndraven.tmi.twitch.tv PRIVMSG #ogaminglol :stou ca joue full sur le mental de bien jouer une game et on t'enleve la victoire pour un bug
-:ecossefreres72!ecossefreres72@ecossefreres72.tmi.twitch.tv PRIVMSG #ogaminglol :C'est quoi la musqiue ??
+2017-03-18 15:57:15.923000 :jackalapples!jackalapples@jackalapples.tmi.twitch.tv JOIN #smashstudios
+2017-03-18 15:57:15.926000 :jackalapples.tmi.twitch.tv 353 jackalapples = #smashstudios :jackalapples
+:jackalapples.tmi.twitch.tv 366 jackalapples #smashstudios :End of /NAMES list
+2017-03-18 15:57:16.148000 :ice_proseidon!ice_proseidon@ice_proseidon.tmi.twitch.tv PRIVMSG #smashstudios :haHAA OK
+2017-03-18 15:57:16.323000 :jurgaburgaflinstines!jurgaburgaflinstines@jurgaburgaflinstines.tmi.twitch.tv PRIVMSG #smashstudios :L A L U N A
+2017-03-18 15:57:17.478000 :chickendonger!chickendonger@chickendonger.tmi.twitch.tv PRIVMSG #smashstudios :Billy'S mom has got it going on
+2017-03-18 15:57:18.668000 :mstrcpr7!mstrcpr7@mstrcpr7.tmi.twitch.tv PRIVMSG #smashstudios :SCHLICE
+2017-03-18 15:57:19.637000 :kamikazesat!kamikazesat@kamikazesat.tmi.twitch.tv PRIVMSG #smashstudios :is singles bracket starting today?
+2017-03-18 15:57:20.480000 :orcarena!orcarena@orcarena.tmi.twitch.tv PRIVMSG #smashstudios :healthy LUL
+2017-03-18 15:57:20.628000 :rektlessrage!rektlessrage@rektlessrage.tmi.twitch.tv PRIVMSG #smashstudios :tell m2k No Kappa
+2017-03-18 15:57:21.398000 :astorwham!astorwham@astorwham.tmi.twitch.tv PRIVMSG #smashstudios :Bruh Honey Bunches is fucking A1
+2017-03-18 15:57:22.548000 :canusurvive!canusurvive@canusurvive.tmi.twitch.tv PRIVMSG #smashstudios :lol
+2017-03-18 15:57:22.654000 :benpup!benpup@benpup.tmi.twitch.tv PRIVMSG #smashstudios :calling honey bunches of oats healthy LUL
+2017-03-18 15:57:22.778000 :theassassinassassin54!theassassinassassin54@theassassinassassin54.tmi.twitch.tv PRIVMSG #smashstudios :haHAA
+2017-03-18 15:57:22.881000 :cpt_dope!cpt_dope@cpt_dope.tmi.twitch.tv PRIVMSG #smashstudios :haHAA
+2017-03-18 15:57:23.833000 :stackymcbears!stackymcbears@stackymcbears.tmi.twitch.tv PRIVMSG #smashstudios :nooooo
+2017-03-18 15:57:25.823000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :roy???
+2017-03-18 15:57:26.678000 :decon1mus!decon1mus@decon1mus.tmi.twitch.tv PRIVMSG #smashstudios :Billy's Mom FeelsGoodMan
+2017-03-18 15:57:26.913000 :skylarkian!skylarkian@skylarkian.tmi.twitch.tv PRIVMSG #smashstudios :oh thats my pantry
+2017-03-18 15:57:28.013000 :budicetv!budicetv@budicetv.tmi.twitch.tv PRIVMSG #smashstudios :healthy cereal is the best @SmashStudios
+2017-03-18 15:57:29.168000 :immortalchamp!immortalchamp@immortalchamp.tmi.twitch.tv PRIVMSG #smashstudios :Jason FailFish
+2017-03-18 15:57:29.288000 :emnumbreon!emnumbreon@emnumbreon.tmi.twitch.tv PRIVMSG #smashstudios :lmfao
+2017-03-18 15:57:31.513000 :krabpot!krabpot@krabpot.tmi.twitch.tv PRIVMSG #smashstudios :I AM ASAC SCHRADER AND I AM SO WHITE
+2017-03-18 15:57:33.226000 :wompt!wompt@wompt.tmi.twitch.tv PRIVMSG #smashstudios :Cheerios pantry DansGame
+2017-03-18 15:57:33.738000 :computerslime!computerslime@computerslime.tmi.twitch.tv PRIVMSG #smashstudios :No such thing as healthy cereal
+2017-03-18 15:57:33.806000 :hyper_flux!hyper_flux@hyper_flux.tmi.twitch.tv PRIVMSG #smashstudios :show some gameplay ResidentSleeper
+2017-03-18 15:57:34.691000 :fiaunty!fiaunty@fiaunty.tmi.twitch.tv PRIVMSG #smashstudios :Moon's got DSLs
+2017-03-18 15:57:35.103000 :lecorez!lecorez@lecorez.tmi.twitch.tv PRIVMSG #smashstudios :I'm aboutta start swinging
+2017-03-18 15:57:36.763000 :toastybacon111!toastybacon111@toastybacon111.tmi.twitch.tv PRIVMSG #smashstudios :LA LUNA
+2017-03-18 15:57:38.318000 :perpetual_christopher!perpetual_christopher@perpetual_christopher.tmi.twitch.tv PRIVMSG #smashstudios :LUCKY CHARMS
+2017-03-18 15:57:38.440000 :youngbebop!youngbebop@youngbebop.tmi.twitch.tv PRIVMSG #smashstudios :honey bun hes of NOPES
+2017-03-18 15:57:39.353000 :orcarena!orcarena@orcarena.tmi.twitch.tv PRIVMSG #smashstudios :CoolStoryBob what else?
+2017-03-18 15:57:41.954000 :plups!plups@plups.tmi.twitch.tv PRIVMSG #smashstudios :🤔
+2017-03-18 15:57:42.586000 :umbrionknight!umbrionknight@umbrionknight.tmi.twitch.tv PRIVMSG #smashstudios :LOL
+2017-03-18 15:57:43.628000 :kmartin003!kmartin003@kmartin003.tmi.twitch.tv PRIVMSG #smashstudios :CHUNKY
+2017-03-18 15:57:45.323000 :magicmage256!magicmage256@magicmage256.tmi.twitch.tv PRIVMSG #smashstudios :LA LUNA GETS IT MY MAN
+2017-03-18 15:57:46.720000 :skylarkian!skylarkian@skylarkian.tmi.twitch.tv PRIVMSG #smashstudios :🤔
+2017-03-18 15:57:47.538000 :satchel_paige!satchel_paige@satchel_paige.tmi.twitch.tv PRIVMSG #smashstudios :CHUNKY SOUP
+2017-03-18 15:57:47.578000 :other77!other77@other77.tmi.twitch.tv PRIVMSG #smashstudios :ryan what even
+2017-03-18 15:57:48.032000 :ranger_mike!ranger_mike@ranger_mike.tmi.twitch.tv PRIVMSG #smashstudios :🤔
+2017-03-18 15:57:48.156000 :tylaron!tylaron@tylaron.tmi.twitch.tv PRIVMSG #smashstudios :dry food, soup
+2017-03-18 15:57:48.686000 :toastybacon111!toastybacon111@toastybacon111.tmi.twitch.tv PRIVMSG #smashstudios :OSsloth
+2017-03-18 15:57:48.943000 :lanebullyalert!lanebullyalert@lanebullyalert.tmi.twitch.tv PRIVMSG #smashstudios :the TO should just tell him no rofl
+2017-03-18 15:57:49.878000 :sigmasheik!sigmasheik@sigmasheik.tmi.twitch.tv PRIVMSG #smashstudios :How high is la luna
+2017-03-18 15:57:50.085000 :scanlawn!scanlawn@scanlawn.tmi.twitch.tv PRIVMSG #smashstudios :🤔
+2017-03-18 15:57:51.096000 :varukers7!varukers7@varukers7.tmi.twitch.tv PRIVMSG #smashstudios :MY GUY
+2017-03-18 15:57:51.310000 :sab_draco!sab_draco@sab_draco.tmi.twitch.tv PRIVMSG #smashstudios :Vortex Master Moon
+2017-03-18 15:57:52.125000 :jerrif!jerrif@jerrif.tmi.twitch.tv PRIVMSG #smashstudios :🤔
+2017-03-18 15:57:52.998000 :eddybearr!eddybearr@eddybearr.tmi.twitch.tv PRIVMSG #smashstudios :dry food, chunky soup
+2017-03-18 15:57:54.226000 :magicmage256!magicmage256@magicmage256.tmi.twitch.tv PRIVMSG #smashstudios :Chunky Kreygasm
+2017-03-18 15:57:54.725000 :jurgaburgaflinstines!jurgaburgaflinstines@jurgaburgaflinstines.tmi.twitch.tv PRIVMSG #smashstudios :soup is not a dry food FailFish
+2017-03-18 15:57:55.383000 :m0destmayne!m0destmayne@m0destmayne.tmi.twitch.tv PRIVMSG #smashstudios :Pasta is dry before it gets wet PogChamp
+2017-03-18 15:57:56.739000 :visuria!visuria@visuria.tmi.twitch.tv PRIVMSG #smashstudios :moon is lit lol
+2017-03-18 15:57:57.370000 :lanebullyalert!lanebullyalert@lanebullyalert.tmi.twitch.tv PRIVMSG #smashstudios :Plup pls talk to m2k
+2017-03-18 15:57:57.881000 :kamikazesat!kamikazesat@kamikazesat.tmi.twitch.tv PRIVMSG #smashstudios :CAMPBLES....MMMM MMMM GOOD!
+2017-03-18 15:57:58.146000 :budicetv!budicetv@budicetv.tmi.twitch.tv PRIVMSG #smashstudios :granola bars Kreygasm
+2017-03-18 15:57:59.988000 :rakazo!rakazo@rakazo.tmi.twitch.tv PRIVMSG #smashstudios :dry food, soup LUL
+2017-03-18 15:58:01.358000 :erniex213!erniex213@erniex213.tmi.twitch.tv PRIVMSG #smashstudios :moon looking damn good KappaPride
+2017-03-18 15:58:01.499000 :huggingahobo!huggingahobo@huggingahobo.tmi.twitch.tv PRIVMSG #smashstudios :🤔 what if plup typed 🤔 🤔
+2017-03-18 15:58:01.697000 :krabpot!krabpot@krabpot.tmi.twitch.tv PRIVMSG #smashstudios :moons munchies talkin
+2017-03-18 15:58:02.643000 :thatisfalcon!thatisfalcon@thatisfalcon.tmi.twitch.tv PRIVMSG #smashstudios :@kmartin003 Billys mom is all I want and i've been waiting for so long SeemsGood
+2017-03-18 15:58:03.311000 :sab_draco!sab_draco@sab_draco.tmi.twitch.tv PRIVMSG #smashstudios :They are caught in the Vortex
+2017-03-18 15:58:03.503000 :satchel_paige!satchel_paige@satchel_paige.tmi.twitch.tv PRIVMSG #smashstudios :little debbies OpieOP
+2017-03-18 15:58:03.577000 :rizz_khalifa!rizz_khalifa@rizz_khalifa.tmi.twitch.tv PRIVMSG #smashstudios :If u only eat the jarred spaghetti sauce u aint ever have good sauce
+2017-03-18 15:58:04.669000 :toastybacon111!toastybacon111@toastybacon111.tmi.twitch.tv PRIVMSG #smashstudios :MACROS my man
+2017-03-18 15:58:05.273000 :indifferentification!indifferentification@indifferentification.tmi.twitch.tv PRIVMSG #smashstudios :KappaPride cereal
+2017-03-18 15:58:07.913000 :jamesbueno_!jamesbueno_@jamesbueno_.tmi.twitch.tv PRIVMSG #smashstudios :@SmashStudios it's time for ur spanking, little boy! smashPbnjChamp eevisuClap wizzNoman
+2017-03-18 15:58:08.234000 :plups!plups@plups.tmi.twitch.tv PRIVMSG #smashstudios :porkchops back from the dead!? PogChamp
+2017-03-18 15:58:08.631000 :benpup!benpup@benpup.tmi.twitch.tv PRIVMSG #smashstudios :dry soup Kreygasm
+2017-03-18 15:58:08.861000 :computerslime!computerslime@computerslime.tmi.twitch.tv PRIVMSG #smashstudios :GMOs DansGame
+2017-03-18 15:58:09.645000 :asoftwoman!asoftwoman@asoftwoman.tmi.twitch.tv PRIVMSG #smashstudios :pastaThat
+2017-03-18 15:58:10.963000 :irthemann523!irthemann523@irthemann523.tmi.twitch.tv PRIVMSG #smashstudios :moon has to be sauced
+2017-03-18 15:58:12.139000 :skylarkian!skylarkian@skylarkian.tmi.twitch.tv PRIVMSG #smashstudios :DEAD?
+2017-03-18 15:58:12.923000 :yeunnn!yeunnn@yeunnn.tmi.twitch.tv PRIVMSG #smashstudios :Are all these games uploaded somewhere?
+2017-03-18 15:58:13.213000 :trillcollinss!trillcollinss@trillcollinss.tmi.twitch.tv PRIVMSG #smashstudios :dad?
+2017-03-18 15:58:14.018000 :tylaron!tylaron@tylaron.tmi.twitch.tv PRIVMSG #smashstudios :moon on that iifym shit
+2017-03-18 15:58:14.098000 :skylarkian!skylarkian@skylarkian.tmi.twitch.tv PRIVMSG #smashstudios :WutFace
+2017-03-18 15:58:14.303000 :jurgaburgaflinstines!jurgaburgaflinstines@jurgaburgaflinstines.tmi.twitch.tv PRIVMSG #smashstudios :Don't forget your chef boyardi raviolli Kappa
+2017-03-18 15:58:14.309000 :gsniper33!gsniper33@gsniper33.tmi.twitch.tv PRIVMSG #smashstudios :Nature Valley Kreygasm
+2017-03-18 15:58:15.010000 :goloche_magicien!goloche_magicien@goloche_magicien.tmi.twitch.tv PRIVMSG #smashstudios :plup would have won this tourney
+2017-03-18 15:58:16.597000 :scottthecoolkid!scottthecoolkid@scottthecoolkid.tmi.twitch.tv PRIVMSG #smashstudios :Plups <3
+2017-03-18 15:58:17.195000 :magicmage256!magicmage256@magicmage256.tmi.twitch.tv PRIVMSG #smashstudios :GMOs DansGame
+2017-03-18 15:58:19.050000 :youngbebop!youngbebop@youngbebop.tmi.twitch.tv PRIVMSG #smashstudios :high fructose corn syrup PogChamp
+2017-03-18 15:58:19.541000 :whace!whace@whace.tmi.twitch.tv PRIVMSG #smashstudios :!schedule
+2017-03-18 15:58:19.775000 :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #smashstudios :https://twitter.com/MVGLeague/status/842598588131790849
+2017-03-18 15:58:20.063000 :kablaminator!kablaminator@kablaminator.tmi.twitch.tv PRIVMSG #smashstudios :WurFace
+2017-03-18 15:58:22.120000 :nextlevelgg!nextlevelgg@nextlevelgg.tmi.twitch.tv PRIVMSG #smashstudios :BigBrother
+2017-03-18 15:58:22.899000 :varukers7!varukers7@varukers7.tmi.twitch.tv PRIVMSG #smashstudios :alex19CHEESECAKE alex19CHEESECAKE alex19CHEESECAKE alex19CHEESECAKE alex19CHEESECAKE alex19CHEESECAKE alex19CHEESECAKE
+2017-03-18 15:58:22.945000 :budicetv!budicetv@budicetv.tmi.twitch.tv PRIVMSG #smashstudios :ill take a cheeseburger from mcdonalds tho Kappa
+2017-03-18 15:58:23.075000 :berzerkfalcon9000!berzerkfalcon9000@berzerkfalcon9000.tmi.twitch.tv PRIVMSG #smashstudios :little diabetus Kreygasm
+2017-03-18 15:58:23.573000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :rip plup
+2017-03-18 15:58:26.080000 :wompt!wompt@wompt.tmi.twitch.tv PRIVMSG #smashstudios :ZombieChops
+2017-03-18 15:58:27.815000 :benpup!benpup@benpup.tmi.twitch.tv PRIVMSG #smashstudios :A Rookie Kreygasm
+2017-03-18 15:58:28.188000 :jurgaburgaflinstines!jurgaburgaflinstines@jurgaburgaflinstines.tmi.twitch.tv PRIVMSG #smashstudios :WurFace
+2017-03-18 15:58:28.774000 :hyper_flux!hyper_flux@hyper_flux.tmi.twitch.tv PRIVMSG #smashstudios :a rookie Kreygasm
+2017-03-18 15:58:29.573000 :rakazo!rakazo@rakazo.tmi.twitch.tv PRIVMSG #smashstudios :it doesnt matter how brolic you are
+2017-03-18 15:58:29.981000 :krabpot!krabpot@krabpot.tmi.twitch.tv PRIVMSG #smashstudios :PORKY
+2017-03-18 15:58:30.879000 :orcarena!orcarena@orcarena.tmi.twitch.tv PRIVMSG #smashstudios :sweat bandana PogChamp
+2017-03-18 15:58:31.468000 :computerslime!computerslime@computerslime.tmi.twitch.tv PRIVMSG #smashstudios :high fructose corn poison DansGame
+2017-03-18 15:58:31.950000 :budicetv!budicetv@budicetv.tmi.twitch.tv PRIVMSG #smashstudios :alex19CHEESECAKE alex19CHEESECAKE
+2017-03-18 15:58:31.966000 :ranger_mike!ranger_mike@ranger_mike.tmi.twitch.tv PRIVMSG #smashstudios :A ROOKIE Kreygasm
+2017-03-18 15:58:32.733000 :asoftwoman!asoftwoman@asoftwoman.tmi.twitch.tv PRIVMSG #smashstudios :alex19CHEESECAKE
+2017-03-18 15:58:32.778000 :kamikaze5533!kamikaze5533@kamikaze5533.tmi.twitch.tv PRIVMSG #smashstudios :D: D: D: D: D:
+2017-03-18 15:58:34.566000 :kablaminator!kablaminator@kablaminator.tmi.twitch.tv PRIVMSG #smashstudios ::C
+2017-03-18 15:58:35.096000 :xivdrone!xivdrone@xivdrone.tmi.twitch.tv PRIVMSG #smashstudios :GMOs Kreygasm
+2017-03-18 15:58:36.048000 :astorwham!astorwham@astorwham.tmi.twitch.tv PRIVMSG #smashstudios :YO ROOKz
+2017-03-18 15:58:36.236000 :juniperberriess!juniperberriess@juniperberriess.tmi.twitch.tv PRIVMSG #smashstudios :eating is for pussies
+2017-03-18 15:58:36.246000 :toastybacon111!toastybacon111@toastybacon111.tmi.twitch.tv PRIVMSG #smashstudios :A rookie MARIO Kreygasm
+2017-03-18 15:58:36.626000 :mousyy_!mousyy_@mousyy_.tmi.twitch.tv PRIVMSG #smashstudios :A ROOKIE
+2017-03-18 15:58:36.888000 :satchel_paige!satchel_paige@satchel_paige.tmi.twitch.tv PRIVMSG #smashstudios :oh shit a.r.
+2017-03-18 15:58:36.901000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :booo lmao
+2017-03-18 15:58:37.593000 :youngbebop!youngbebop@youngbebop.tmi.twitch.tv PRIVMSG #smashstudios :arookie PogChamp PogChamp
+2017-03-18 15:58:37.764000 :mousyy_!mousyy_@mousyy_.tmi.twitch.tv PRIVMSG #smashstudios :THE GOD
+2017-03-18 15:58:38.069000 :benpup!benpup@benpup.tmi.twitch.tv PRIVMSG #smashstudios :lets go a roooooooooooooooooookie
+2017-03-18 15:58:40.566000 :roughriver2!roughriver2@roughriver2.tmi.twitch.tv PRIVMSG #smashstudios :A rookie PogChamp
+2017-03-18 15:58:40.906000 :voester!voester@voester.tmi.twitch.tv PRIVMSG #smashstudios :plup still stuck in traffic?
+2017-03-18 15:58:40.935000 :umbrionknight!umbrionknight@umbrionknight.tmi.twitch.tv PRIVMSG #smashstudios :AyRookie is here?!
+2017-03-18 15:58:41.309000 :pixelpeasants!pixelpeasants@pixelpeasants.tmi.twitch.tv PRIVMSG #smashstudios :Mario Kreygasm
+2017-03-18 15:58:41.981000 :tywiinn!tywiinn@tywiinn.tmi.twitch.tv PRIVMSG #smashstudios :White marth DansGame
+2017-03-18 15:58:42.346000 :rakazo!rakazo@rakazo.tmi.twitch.tv PRIVMSG #smashstudios :mcdonalds is shit tier
+2017-03-18 15:58:42.419000 :kimmysay!kimmysay@kimmysay.tmi.twitch.tv PRIVMSG #smashstudios :Mario PogChamp
+2017-03-18 15:58:42.528000 :smashbrosskrub!smashbrosskrub@smashbrosskrub.tmi.twitch.tv PRIVMSG #smashstudios :A rookie Kreygasm
+2017-03-18 15:58:42.743000 :goloche_magicien!goloche_magicien@goloche_magicien.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp mangoScorp mangoScorp mangoScorp
+2017-03-18 15:58:43.690000 :budicetv!budicetv@budicetv.tmi.twitch.tv PRIVMSG #smashstudios :alex19ENDHIM
+2017-03-18 15:58:44.120000 :hyper_flux!hyper_flux@hyper_flux.tmi.twitch.tv PRIVMSG #smashstudios :the mario god Kreygasm
+2017-03-18 15:58:44.191000 :krabpot!krabpot@krabpot.tmi.twitch.tv PRIVMSG #smashstudios :MOONS THE BLACK NIGHT
+2017-03-18 15:58:44.589000 :applying!applying@applying.tmi.twitch.tv PRIVMSG #smashstudios :CMON AROOKIE
+2017-03-18 15:58:45.833000 :umbrionknight!umbrionknight@umbrionknight.tmi.twitch.tv PRIVMSG #smashstudios :HOLY SHIT AYROOKIE LETS GO
+2017-03-18 15:58:46.061000 :marshmelloos!marshmelloos@marshmelloos.tmi.twitch.tv PRIVMSG #smashstudios :rooks are better than knights lol
+2017-03-18 15:58:46.136000 :pikmin2!pikmin2@pikmin2.tmi.twitch.tv PRIVMSG #smashstudios :MARIO PogChamp
+2017-03-18 15:58:46.333000 :kablaminator!kablaminator@kablaminator.tmi.twitch.tv PRIVMSG #smashstudios :LUL
+2017-03-18 15:58:46.703000 :yetiapocalypse!yetiapocalypse@yetiapocalypse.tmi.twitch.tv PRIVMSG #smashstudios :alex19ENDHIM
+2017-03-18 15:58:47.658000 :jerrif!jerrif@jerrif.tmi.twitch.tv PRIVMSG #smashstudios :Kappa
+2017-03-18 15:58:48.509000 :slouking!slouking@slouking.tmi.twitch.tv PRIVMSG #smashstudios :a rookie hype
+2017-03-18 15:58:48.591000 :kamikazesat!kamikazesat@kamikazesat.tmi.twitch.tv PRIVMSG #smashstudios :A ROOKS...PRINCE KNIGHT
+2017-03-18 15:58:49.181000 :squishy5quishdp!squishy5quishdp@squishy5quishdp.tmi.twitch.tv PRIVMSG #smashstudios :this could go either way
+2017-03-18 15:58:49.641000 :bosko39!bosko39@bosko39.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp mangoScorp
+2017-03-18 15:58:49.866000 :residentsleeper22!residentsleeper22@residentsleeper22.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp mangoScorp mangoScorp
+2017-03-18 15:58:50.323000 :mugs__!mugs__@mugs__.tmi.twitch.tv PRIVMSG #smashstudios :Never a white knight lmao
+2017-03-18 15:58:50.441000 :ricepls!ricepls@ricepls.tmi.twitch.tv PRIVMSG #smashstudios :ayyy rookie PogChamp
+2017-03-18 15:58:52.008000 :wompt!wompt@wompt.tmi.twitch.tv PRIVMSG #smashstudios :OldManChops
+2017-03-18 15:58:53.688000 :chickendonger!chickendonger@chickendonger.tmi.twitch.tv PRIVMSG #smashstudios :what about prince abu 🤔
+2017-03-18 15:58:53.951000 :erniex213!erniex213@erniex213.tmi.twitch.tv PRIVMSG #smashstudios :porkchops is a scrub
+2017-03-18 15:58:55.857000 :dinowulf!dinowulf@dinowulf.tmi.twitch.tv PRIVMSG #smashstudios :lets go a rookie!
+2017-03-18 15:58:57.475000 :budicetv!budicetv@budicetv.tmi.twitch.tv PRIVMSG #smashstudios :alex19ENDHIM /
+2017-03-18 15:59:01.216000 :smashbrosskrub!smashbrosskrub@smashbrosskrub.tmi.twitch.tv PRIVMSG #smashstudios :Mario PogChamp
+2017-03-18 15:59:01.526000 :mousyy_!mousyy_@mousyy_.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp
+2017-03-18 15:59:01.684000 :rizz_khalifa!rizz_khalifa@rizz_khalifa.tmi.twitch.tv PRIVMSG #smashstudios :Chop cheez
+2017-03-18 15:59:01.840000 :perpetual_christopher!perpetual_christopher@perpetual_christopher.tmi.twitch.tv PRIVMSG #smashstudios :DOes anyone else hear a hiss in audio?
+2017-03-18 15:59:02.383000 :pixelpeasants!pixelpeasants@pixelpeasants.tmi.twitch.tv PRIVMSG #smashstudios :Mario wins a major? PogChamp
+2017-03-18 15:59:02.438000 :orcarena!orcarena@orcarena.tmi.twitch.tv PRIVMSG #smashstudios :BlessRNG
+2017-03-18 15:59:02.589000 :manupenez!manupenez@manupenez.tmi.twitch.tv PRIVMSG #smashstudios :!bracket
+2017-03-18 15:59:02.814000 :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #smashstudios :https://smash.gg/tournament/mvg-presents-frame-perfect-series-2-1/events/melee-singles/brackets/99359
+2017-03-18 15:59:03.006000 :youngbebop!youngbebop@youngbebop.tmi.twitch.tv PRIVMSG #smashstudios :a rook is a fucking beast
+2017-03-18 15:59:03.696000 :creepermcstalk!creepermcstalk@creepermcstalk.tmi.twitch.tv PRIVMSG #smashstudios :Porkchops isn't a top 100 player
+2017-03-18 15:59:04.994000 :undersnore!undersnore@undersnore.tmi.twitch.tv PRIVMSG #smashstudios :PP Kreygasm
+2017-03-18 15:59:06.111000 :kamikaze5533!kamikaze5533@kamikaze5533.tmi.twitch.tv PRIVMSG #smashstudios :that alex emote is terrible
+2017-03-18 15:59:08.184000 :ntlnvwls!ntlnvwls@ntlnvwls.tmi.twitch.tv PRIVMSG #smashstudios :If you think GMOs are bad, sorry about your autism.
+2017-03-18 15:59:08.689000 :silentocelot!silentocelot@silentocelot.tmi.twitch.tv PRIVMSG #smashstudios :!bracket
+2017-03-18 15:59:11.203000 :kmartin003!kmartin003@kmartin003.tmi.twitch.tv PRIVMSG #smashstudios :FE1 Marth > FE3 Marth
+2017-03-18 15:59:11.420000 :pikmin2!pikmin2@pikmin2.tmi.twitch.tv PRIVMSG #smashstudios :I mean I think it's ok to be a white knight once and a while
+2017-03-18 15:59:12.795000 :michiel_31!michiel_31@michiel_31.tmi.twitch.tv PRIVMSG #smashstudios :BlessRNG
+2017-03-18 15:59:17.109000 :siddward1!siddward1@siddward1.tmi.twitch.tv PRIVMSG #smashstudios :plup PogChamp
+2017-03-18 15:59:17.553000 :kamikazesat!kamikazesat@kamikazesat.tmi.twitch.tv PRIVMSG #smashstudios :LMFAOOOO
+2017-03-18 15:59:19.924000 :jurgaburgaflinstines!jurgaburgaflinstines@jurgaburgaflinstines.tmi.twitch.tv PRIVMSG #smashstudios :If you think GMOs are bad, sorry about your autism
+2017-03-18 15:59:20.927000 :toasti94!toasti94@toasti94.tmi.twitch.tv PRIVMSG #smashstudios :wanna see scorp v a rookie so bad
+2017-03-18 15:59:23.500000 :kamikazesat!kamikazesat@kamikazesat.tmi.twitch.tv PRIVMSG #smashstudios :Bruno Style
+2017-03-18 15:59:24.131000 :budicetv!budicetv@budicetv.tmi.twitch.tv PRIVMSG #smashstudios :alex19CHEESECAKE
+2017-03-18 15:59:27.686000 :goloche_magicien!goloche_magicien@goloche_magicien.tmi.twitch.tv PRIVMSG #smashstudios :mang0 a rookie GF mario ditto Kreygasm PogChamp
+2017-03-18 15:59:28.169000 :muuuuuuuuuuuuule!muuuuuuuuuuuuule@muuuuuuuuuuuuule.tmi.twitch.tv PRIVMSG #smashstudios :@CreeperMcStalk yeah he is
+2017-03-18 15:59:28.369000 :ilovesatss!ilovesatss@ilovesatss.tmi.twitch.tv PRIVMSG #smashstudios :Kreygasm PPMD TAKE MY PROSTATE Kreygasm
+2017-03-18 15:59:31.490000 :wompt!wompt@wompt.tmi.twitch.tv PRIVMSG #smashstudios :@Perpetual_Christopher yeah the mic audio is garbage. It's MVG what do you expect
+2017-03-18 15:59:31.831000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :money team!!!!!!!!!
+2017-03-18 15:59:33.111000 :failatliving!failatliving@failatliving.tmi.twitch.tv PRIVMSG #smashstudios :OMG WESTBALLZ PogChamp
+2017-03-18 15:59:33.935000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :lesgo ARookie
+2017-03-18 15:59:34.179000 :ice_proseidon!ice_proseidon@ice_proseidon.tmi.twitch.tv PRIVMSG #smashstudios :WutFace
+2017-03-18 15:59:34.671000 :dlucey02!dlucey02@dlucey02.tmi.twitch.tv PRIVMSG #smashstudios :is scorp at this tourney?
+2017-03-18 15:59:34.790000 :yume___!yume___@yume___.tmi.twitch.tv PRIVMSG #smashstudios :Wow first alex emote I dislike
+2017-03-18 15:59:36.088000 :pikmin2!pikmin2@pikmin2.tmi.twitch.tv PRIVMSG #smashstudios :lakers PogChamp
+2017-03-18 15:59:41.663000 :ozmap!ozmap@ozmap.tmi.twitch.tv PRIVMSG #smashstudios :!bracket
+2017-03-18 15:59:41.909000 :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #smashstudios :https://smash.gg/tournament/mvg-presents-frame-perfect-series-2-1/events/melee-singles/brackets/99359
+2017-03-18 15:59:41.911000 :asoftwoman!asoftwoman@asoftwoman.tmi.twitch.tv PRIVMSG #smashstudios :alex19CHEESECAKE alex19ENDHIM
+2017-03-18 15:59:49.720000 :magicmage256!magicmage256@magicmage256.tmi.twitch.tv PRIVMSG #smashstudios :Warior Color Kreygasm
+2017-03-18 15:59:49.999000 :krabpot!krabpot@krabpot.tmi.twitch.tv PRIVMSG #smashstudios :fuck yeah a mario
+2017-03-18 15:59:56.681000 :habefiet!habefiet@habefiet.tmi.twitch.tv PRIVMSG #smashstudios :ACTION REPLAY LMAO
+2017-03-18 15:59:56.707000 :draftyeman!draftyeman@draftyeman.tmi.twitch.tv PRIVMSG #smashstudios :S C O R P
+2017-03-18 15:59:56.974000 :pikmin2!pikmin2@pikmin2.tmi.twitch.tv PRIVMSG #smashstudios :action replay!
+2017-03-18 15:59:57.786000 :whpowell96!whpowell96@whpowell96.tmi.twitch.tv PRIVMSG #smashstudios :Is A Rookie MIOM ranked?
+2017-03-18 15:59:58.174000 :anhan_!anhan_@anhan_.tmi.twitch.tv PRIVMSG #smashstudios :ACTION REPLAY
+2017-03-18 15:59:58.864000 :extremelydg!extremelydg@extremelydg.tmi.twitch.tv PRIVMSG #smashstudios :ACTION REPLAY
+2017-03-18 15:59:58.899000 :zeppelin_rocks!zeppelin_rocks@zeppelin_rocks.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp mangoScorp mangoScorp
+2017-03-18 15:59:59.339000 :benpup!benpup@benpup.tmi.twitch.tv PRIVMSG #smashstudios :action replay
+2017-03-18 16:00:00.030000 :moshjarcus!moshjarcus@moshjarcus.tmi.twitch.tv PRIVMSG #smashstudios :action replay
+2017-03-18 16:00:00.111000 :plups!plups@plups.tmi.twitch.tv PRIVMSG #smashstudios :the AR GUYS
+2017-03-18 16:00:00.189000 :perpetual_christopher!perpetual_christopher@perpetual_christopher.tmi.twitch.tv PRIVMSG #smashstudios :Action Replay?
+2017-03-18 16:00:00.281000 :kablaminator!kablaminator@kablaminator.tmi.twitch.tv PRIVMSG #smashstudios :TECH!
+2017-03-18 16:00:01.849000 :jurgaburgaflinstines!jurgaburgaflinstines@jurgaburgaflinstines.tmi.twitch.tv PRIVMSG #smashstudios :ACTION REPLAY
+2017-03-18 16:00:01.918000 :junokims!junokims@junokims.tmi.twitch.tv PRIVMSG #smashstudios :ACTION REPLAY
+2017-03-18 16:00:02.378000 :chetmagongalo!chetmagongalo@chetmagongalo.tmi.twitch.tv PRIVMSG #smashstudios :GMOs are causing hypoxia in the gulf of mexico
+2017-03-18 16:00:04.614000 :stevenk4!stevenk4@stevenk4.tmi.twitch.tv PRIVMSG #smashstudios :ACTION REPLAY
+2017-03-18 16:00:05.323000 :thelaughingman10!thelaughingman10@thelaughingman10.tmi.twitch.tv PRIVMSG #smashstudios :action reply
+2017-03-18 16:00:06.440000 :failatliving!failatliving@failatliving.tmi.twitch.tv PRIVMSG #smashstudios :action replay cmonBruh
+2017-03-18 16:00:06.686000 :irthemann523!irthemann523@irthemann523.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp
+2017-03-18 16:00:08.865000 :chaosknightofxom!chaosknightofxom@chaosknightofxom.tmi.twitch.tv PRIVMSG #smashstudios :ACTION REPLAY KILLED MY GBA
+2017-03-18 16:00:10.018000 :scorpadorp!scorpadorp@scorpadorp.tmi.twitch.tv PRIVMSG #smashstudios :sup
+2017-03-18 16:00:10.314000 :voester!voester@voester.tmi.twitch.tv PRIVMSG #smashstudios :AUGMENTED REALITY
+2017-03-18 16:00:10.438000 :goer_!goer_@goer_.tmi.twitch.tv PRIVMSG #smashstudios :ACTION REPLAY
+2017-03-18 16:00:10.961000 :rajorsonio!rajorsonio@rajorsonio.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:11.009000 :brevlty!brevlty@brevlty.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:11.334000 :theprepaul!theprepaul@theprepaul.tmi.twitch.tv PRIVMSG #smashstudios :wtf a rookie is there?
+2017-03-18 16:00:12.284000 :bleedscarlet23!bleedscarlet23@bleedscarlet23.tmi.twitch.tv PRIVMSG #smashstudios :ACTIOJ REPLAY
+2017-03-18 16:00:12.776000 :asce_blayze!asce_blayze@asce_blayze.tmi.twitch.tv PRIVMSG #smashstudios :Ok
+2017-03-18 16:00:13.206000 :silvite!silvite@silvite.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:13.426000 :tekkenmiguel!tekkenmiguel@tekkenmiguel.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:14.029000 :ranger_mike!ranger_mike@ranger_mike.tmi.twitch.tv PRIVMSG #smashstudios :ACTION REPLAY Kreygasm Kreygasm Kreygasm
+2017-03-18 16:00:14.585000 :jurgaburgaflinstines!jurgaburgaflinstines@jurgaburgaflinstines.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:14.949000 :epikp0n33!epikp0n33@epikp0n33.tmi.twitch.tv PRIVMSG #smashstudios :ACTION REPLAY
+2017-03-18 16:00:15.124000 :jrb0914!jrb0914@jrb0914.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:15.583000 :kamikaze5533!kamikaze5533@kamikaze5533.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:15.633000 :rizz_khalifa!rizz_khalifa@rizz_khalifa.tmi.twitch.tv PRIVMSG #smashstudios :Action replay
+2017-03-18 16:00:16.374000 :muxedo20xx!muxedo20xx@muxedo20xx.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:16.466000 :peter0611!peter0611@peter0611.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:17.533000 :thenarddogg!thenarddogg@thenarddogg.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:17.899000 :dinowulf!dinowulf@dinowulf.tmi.twitch.tv PRIVMSG #smashstudios :Action replay
+2017-03-18 16:00:18.279000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :aye
+2017-03-18 16:00:18.858000 :kamikazesat!kamikazesat@kamikazesat.tmi.twitch.tv PRIVMSG #smashstudios :AR...ACTION REPLAY
+2017-03-18 16:00:18.981000 :scottthecoolkid!scottthecoolkid@scottthecoolkid.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:19.576000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :yuh
+2017-03-18 16:00:20.023000 :jerrif!jerrif@jerrif.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:21.461000 :scootervalentine!scootervalentine@scootervalentine.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:22.815000 :silentocelot!silentocelot@silentocelot.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:23.226000 :cooliezombie!cooliezombie@cooliezombie.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:24.444000 :fishtype1!fishtype1@fishtype1.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:24.448000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :oooooh
+2017-03-18 16:00:24.904000 :scottthecoolkid!scottthecoolkid@scottthecoolkid.tmi.twitch.tv PRIVMSG #smashstudios :lol
+2017-03-18 16:00:26.188000 :residentsleeper22!residentsleeper22@residentsleeper22.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:00:26.548000 :hyper_flux!hyper_flux@hyper_flux.tmi.twitch.tv PRIVMSG #smashstudios :cooked bird Kreygasm
+2017-03-18 16:00:27.195000 :gwbeeb!gwbeeb@gwbeeb.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:29.280000 :georgiaokief!georgiaokief@georgiaokief.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:29.897000 :fiaunty!fiaunty@fiaunty.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:32.163000 :obi_nation!obi_nation@obi_nation.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:33.673000 :serenade_exe!serenade_exe@serenade_exe.tmi.twitch.tv PRIVMSG #smashstudios :!bracket
+2017-03-18 16:00:33.971000 :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #smashstudios :https://smash.gg/tournament/mvg-presents-frame-perfect-series-2-1/events/melee-singles/brackets/99359
+2017-03-18 16:00:34.713000 :kmartin003!kmartin003@kmartin003.tmi.twitch.tv PRIVMSG #smashstudios :PREHEAT THAT OVEN FOR MY CHICKEN FRIES
+2017-03-18 16:00:35.162000 :asce_blayze!asce_blayze@asce_blayze.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:36.318000 :kamikaze5533!kamikaze5533@kamikaze5533.tmi.twitch.tv PRIVMSG #smashstudios :PRE HEAT
+2017-03-18 16:00:38.522000 :jurgaburgaflinstines!jurgaburgaflinstines@jurgaburgaflinstines.tmi.twitch.tv PRIVMSG #smashstudios :this chat is cancer, and I love it
+2017-03-18 16:00:39.766000 :wolveywright!wolveywright@wolveywright.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:00:39.977000 :expirydateachieved!expirydateachieved@expirydateachieved.tmi.twitch.tv PRIVMSG #smashstudios :Action Replay Kreygasm
+2017-03-18 16:00:40.016000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :lmao up b
+2017-03-18 16:00:40.228000 :krabpot!krabpot@krabpot.tmi.twitch.tv PRIVMSG #smashstudios :LOL FUCKIN MOON
+2017-03-18 16:00:41.206000 :jpbayb!jpbayb@jpbayb.tmi.twitch.tv PRIVMSG #smashstudios :WARIO LOST SO MUCH WEIGHT
+2017-03-18 16:00:41.818000 :eddybearr!eddybearr@eddybearr.tmi.twitch.tv PRIVMSG #smashstudios :@ChetMagongalo That has nothing to do with GMOs and everything to do with agricultural and industrial runoff (read: humans existing results in pollution)
+2017-03-18 16:00:42.681000 :jurgaburgaflinstines!jurgaburgaflinstines@jurgaburgaflinstines.tmi.twitch.tv PRIVMSG #smashstudios :<3
+2017-03-18 16:00:44.463000 :toastybacon111!toastybacon111@toastybacon111.tmi.twitch.tv PRIVMSG #smashstudios :Moon commentary Kappa
+2017-03-18 16:00:45.658000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :$$$$$$$$$$$$
+2017-03-18 16:00:49.611000 :orcarena!orcarena@orcarena.tmi.twitch.tv PRIVMSG #smashstudios :so many coins NotLikeThis
+2017-03-18 16:00:51.512000 :jasonexe!jasonexe@jasonexe.tmi.twitch.tv PRIVMSG #smashstudios :ACTION REPLAY
+2017-03-18 16:00:52.373000 :fiaunty!fiaunty@fiaunty.tmi.twitch.tv PRIVMSG #smashstudios :yuh
+2017-03-18 16:00:54.117000 :scootervalentine!scootervalentine@scootervalentine.tmi.twitch.tv PRIVMSG #smashstudios :moon knows his chicken roasting temps
+2017-03-18 16:00:57.954000 :hyper_flux!hyper_flux@hyper_flux.tmi.twitch.tv PRIVMSG #smashstudios :yeehaw Kreygasm
+2017-03-18 16:00:59.854000 :brainz4gainz!brainz4gainz@brainz4gainz.tmi.twitch.tv PRIVMSG #smashstudios :Down and dirty Kreygasm
+2017-03-18 16:01:00.621000 :gwbeeb!gwbeeb@gwbeeb.tmi.twitch.tv PRIVMSG #smashstudios :THE SHAMWOW LUL
+2017-03-18 16:01:01.371000 :stevenk4!stevenk4@stevenk4.tmi.twitch.tv PRIVMSG #smashstudios :A ROOKIE IS SO GOOD
+2017-03-18 16:01:01.378000 :link1356!link1356@link1356.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:01:02.663000 :chronos545!chronos545@chronos545.tmi.twitch.tv PRIVMSG #smashstudios :Green? WutFace
+2017-03-18 16:01:02.693000 :pandoras_lockbox!pandoras_lockbox@pandoras_lockbox.tmi.twitch.tv PRIVMSG #smashstudios :hboxPog
+2017-03-18 16:01:02.818000 :supimbob67!supimbob67@supimbob67.tmi.twitch.tv PRIVMSG #smashstudios :!bracket
+2017-03-18 16:01:02.948000 :aegis_bolt!aegis_bolt@aegis_bolt.tmi.twitch.tv PRIVMSG #smashstudios :Monsanto shills in chat DansGame
+2017-03-18 16:01:04.318000 :silverjake7!silverjake7@silverjake7.tmi.twitch.tv PRIVMSG #smashstudios :Kreygasm
+2017-03-18 16:01:04.533000 :drizzyrhyme!drizzyrhyme@drizzyrhyme.tmi.twitch.tv PRIVMSG #smashstudios :YOOO
+2017-03-18 16:01:04.836000 :pixelpeasants!pixelpeasants@pixelpeasants.tmi.twitch.tv PRIVMSG #smashstudios :Yellow and green? LUL
+2017-03-18 16:01:05.342000 :rakazo!rakazo@rakazo.tmi.twitch.tv PRIVMSG #smashstudios :LMAO
+2017-03-18 16:01:05.778000 :umbrionknight!umbrionknight@umbrionknight.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:01:07.138000 :mynameisdin!mynameisdin@mynameisdin.tmi.twitch.tv PRIVMSG #smashstudios :wizzPlup
+2017-03-18 16:01:08.371000 :pandoras_lockbox!pandoras_lockbox@pandoras_lockbox.tmi.twitch.tv PRIVMSG #smashstudios :hboxKrey
+2017-03-18 16:01:10.384000 :vege68!vege68@vege68.tmi.twitch.tv PRIVMSG #smashstudios :my bitch is down and durdyy
+2017-03-18 16:01:10.429000 :backwards_hat!backwards_hat@backwards_hat.tmi.twitch.tv PRIVMSG #smashstudios :a rookie the true mario
+2017-03-18 16:01:12.303000 :kamikazesat!kamikazesat@kamikazesat.tmi.twitch.tv PRIVMSG #smashstudios :Shamrock colored Mario
+2017-03-18 16:01:13.920000 :perpetual_christopher!perpetual_christopher@perpetual_christopher.tmi.twitch.tv PRIVMSG #smashstudios :Mario taking that birds lunch money
+2017-03-18 16:01:14.581000 :rizz_khalifa!rizz_khalifa@rizz_khalifa.tmi.twitch.tv PRIVMSG #smashstudios :Pesos
+2017-03-18 16:01:20.476000 :intrinsicmovement!intrinsicmovement@intrinsicmovement.tmi.twitch.tv PRIVMSG #smashstudios :goooo mario
+2017-03-18 16:01:23.276000 :dad_ssbm!dad_ssbm@dad_ssbm.tmi.twitch.tv PRIVMSG #smashstudios :@PixelPeasants, his boots are green
+2017-03-18 16:01:24.403000 :pichssbm!pichssbm@pichssbm.tmi.twitch.tv PRIVMSG #smashstudios :Moon pogchamp
+2017-03-18 16:01:32.254000 :fisticuffs50!fisticuffs50@fisticuffs50.tmi.twitch.tv PRIVMSG #smashstudios :lmao what he's playing incredibly aggressive
+2017-03-18 16:01:41.387000 :supimbob67!supimbob67@supimbob67.tmi.twitch.tv PRIVMSG #smashstudios :!bracket
+2017-03-18 16:01:41.564000 :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #smashstudios :https://smash.gg/tournament/mvg-presents-frame-perfect-series-2-1/events/melee-singles/brackets/99359
+2017-03-18 16:01:44.153000 :pixelpeasants!pixelpeasants@pixelpeasants.tmi.twitch.tv PRIVMSG #smashstudios :@dad_ssbm, Thanks daddy. Maybe my screen just sucks. XD
+2017-03-18 16:01:44.700000 :zzzlol94!zzzlol94@zzzlol94.tmi.twitch.tv PRIVMSG #smashstudios :COOKED
+2017-03-18 16:01:44.901000 :chetmagongalo!chetmagongalo@chetmagongalo.tmi.twitch.tv PRIVMSG #smashstudios :guess what foods are grown that are responsible for the runoff of industrial ag 4Head
+2017-03-18 16:01:47.081000 :pandoras_lockbox!pandoras_lockbox@pandoras_lockbox.tmi.twitch.tv PRIVMSG #smashstudios :hboxKrey
+2017-03-18 16:01:47.269000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :oo neeer
+2017-03-18 16:01:48.159000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :yeeeee
+2017-03-18 16:01:48.569000 :toasti94!toasti94@toasti94.tmi.twitch.tv PRIVMSG #smashstudios :stung
+2017-03-18 16:01:48.961000 :residentsleeper22!residentsleeper22@residentsleeper22.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:01:49.484000 :dinowulf!dinowulf@dinowulf.tmi.twitch.tv PRIVMSG #smashstudios :lol A rookie doesnt play agro. haha
+2017-03-18 16:01:50.566000 :dad_ssbm!dad_ssbm@dad_ssbm.tmi.twitch.tv PRIVMSG #smashstudios :EVERYONE, MARIOS BOOTS ARE GREEN
+2017-03-18 16:01:54.199000 :umbrionknight!umbrionknight@umbrionknight.tmi.twitch.tv PRIVMSG #smashstudios :LOL
+2017-03-18 16:01:54.373000 :drizzyrhyme!drizzyrhyme@drizzyrhyme.tmi.twitch.tv PRIVMSG #smashstudios :LETS GO
+2017-03-18 16:01:55.823000 :jurgaburgaflinstines!jurgaburgaflinstines@jurgaburgaflinstines.tmi.twitch.tv PRIVMSG #smashstudios :the headphones are off PogChamp
+2017-03-18 16:01:57.126000 :zzzlol94!zzzlol94@zzzlol94.tmi.twitch.tv PRIVMSG #smashstudios :ROASTED CHICKEN
+2017-03-18 16:01:57.553000 :abyssssb!abyssssb@abyssssb.tmi.twitch.tv PRIVMSG #smashstudios :test
+2017-03-18 16:01:57.886000 :dad_ssbm!dad_ssbm@dad_ssbm.tmi.twitch.tv PRIVMSG #smashstudios :SINCE WARIO HAS GREEN SHOES
+2017-03-18 16:01:58.972000 :noid77!noid77@noid77.tmi.twitch.tv PRIVMSG #smashstudios :right dino rofl
+2017-03-18 16:01:59.412000 :nomoresmorez!nomoresmorez@nomoresmorez.tmi.twitch.tv PRIVMSG #smashstudios :this scorp? Kappa
+2017-03-18 16:02:01.361000 :caivs!caivs@caivs.tmi.twitch.tv PRIVMSG #smashstudios :what hte heck what is a rookie doing in fl
+2017-03-18 16:02:04.165000 :purepulsephantom!purepulsephantom@purepulsephantom.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:02:04.411000 :magicmage256!magicmage256@magicmage256.tmi.twitch.tv PRIVMSG #smashstudios :Wavedash flub into dodge side b Kreygasm
+2017-03-18 16:02:05.353000 :itsbigpanda!itsbigpanda@itsbigpanda.tmi.twitch.tv PRIVMSG #smashstudios :mangoTEAM mangoBEER mangoCoach
+2017-03-18 16:02:06.239000 :caivs!caivs@caivs.tmi.twitch.tv PRIVMSG #smashstudios :is he stationed there for air force?
+2017-03-18 16:02:08.322000 :edd_dodo!edd_dodo@edd_dodo.tmi.twitch.tv PRIVMSG #smashstudios :pesos are mexican/central american dollars
+2017-03-18 16:02:11.904000 :struggler01!struggler01@struggler01.tmi.twitch.tv PRIVMSG #smashstudios :IS THIS A HOW TO COOK CHAKEN TUROTIAL?
+2017-03-18 16:02:16.386000 :irthemann523!irthemann523@irthemann523.tmi.twitch.tv PRIVMSG #smashstudios :mangoTEAM mangoBEER
+2017-03-18 16:02:17.889000 :11jonez!11jonez@11jonez.tmi.twitch.tv PRIVMSG #smashstudios :!bracket
+2017-03-18 16:02:18.093000 :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #smashstudios :https://smash.gg/tournament/mvg-presents-frame-perfect-series-2-1/events/melee-singles/brackets/99359
+2017-03-18 16:02:18.117000 :hyper_flux!hyper_flux@hyper_flux.tmi.twitch.tv PRIVMSG #smashstudios :FUCK
+2017-03-18 16:02:19.817000 :pikmin2!pikmin2@pikmin2.tmi.twitch.tv PRIVMSG #smashstudios :NO TECH ZONE
+2017-03-18 16:02:20.108000 :squishy5quishdp!squishy5quishdp@squishy5quishdp.tmi.twitch.tv PRIVMSG #smashstudios :omg
+2017-03-18 16:02:20.312000 :tywiinn!tywiinn@tywiinn.tmi.twitch.tv PRIVMSG #smashstudios :OOOOOOOOOOOOOO
+2017-03-18 16:02:20.426000 :benpup!benpup@benpup.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:02:20.514000 :nawtkool!nawtkool@nawtkool.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:02:20.606000 :zzzlol94!zzzlol94@zzzlol94.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:02:21.114000 :asce_blayze!asce_blayze@asce_blayze.tmi.twitch.tv PRIVMSG #smashstudios :DAMN
+2017-03-18 16:02:21.277000 :plups!plups@plups.tmi.twitch.tv PRIVMSG #smashstudios :dam
+2017-03-18 16:02:21.729000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :the reads
+2017-03-18 16:02:23.063000 :dinowulf!dinowulf@dinowulf.tmi.twitch.tv PRIVMSG #smashstudios :hes been here for 2 years @caivs
+2017-03-18 16:02:23.214000 :perpetual_christopher!perpetual_christopher@perpetual_christopher.tmi.twitch.tv PRIVMSG #smashstudios :YAH_HOO
+2017-03-18 16:02:23.384000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :hnnnnnnnnnnng
+2017-03-18 16:02:23.521000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :damn
+2017-03-18 16:02:23.564000 :earrings!earrings@earrings.tmi.twitch.tv PRIVMSG #smashstudios :A ROOKIE
+2017-03-18 16:02:23.614000 :pandoras_lockbox!pandoras_lockbox@pandoras_lockbox.tmi.twitch.tv PRIVMSG #smashstudios :hboxPog
+2017-03-18 16:02:23.694000 :cjfast11!cjfast11@cjfast11.tmi.twitch.tv PRIVMSG #smashstudios :ARRRRR
+2017-03-18 16:02:23.919000 :rakazo!rakazo@rakazo.tmi.twitch.tv PRIVMSG #smashstudios :CLEANNNNNNNNNNNNNNNNNNN
+2017-03-18 16:02:24.193000 :moshjarcus!moshjarcus@moshjarcus.tmi.twitch.tv PRIVMSG #smashstudios :a rookie lives in florida
+2017-03-18 16:02:24.584000 :sand_cat!sand_cat@sand_cat.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:02:24.626000 :orcarena!orcarena@orcarena.tmi.twitch.tv PRIVMSG #smashstudios :WOOOH
+2017-03-18 16:02:24.785000 :grassyturnip!grassyturnip@grassyturnip.tmi.twitch.tv PRIVMSG #smashstudios :damn
+2017-03-18 16:02:25.199000 :residentsleeper22!residentsleeper22@residentsleeper22.tmi.twitch.tv PRIVMSG #smashstudios :PigChamp
+2017-03-18 16:02:25.626000 :vanillatown!vanillatown@vanillatown.tmi.twitch.tv PRIVMSG #smashstudios :WOW
+2017-03-18 16:02:25.629000 :supimbob67!supimbob67@supimbob67.tmi.twitch.tv PRIVMSG #smashstudios :ACTION REPLAY
+2017-03-18 16:02:25.629000 :obi_nation!obi_nation@obi_nation.tmi.twitch.tv PRIVMSG #smashstudios :LOOOL
+2017-03-18 16:02:25.718000 :olimanrules!olimanrules@olimanrules.tmi.twitch.tv PRIVMSG #smashstudios :FUCK
+2017-03-18 16:02:26.015000 :smillzor!smillzor@smillzor.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:02:26.219000 :goloche_magicien!goloche_magicien@goloche_magicien.tmi.twitch.tv PRIVMSG #smashstudios :YES
+2017-03-18 16:02:26.294000 :drizzyrhyme!drizzyrhyme@drizzyrhyme.tmi.twitch.tv PRIVMSG #smashstudios :YOOOOOOOO
+2017-03-18 16:02:26.543000 :jurgaburgaflinstines!jurgaburgaflinstines@jurgaburgaflinstines.tmi.twitch.tv PRIVMSG #smashstudios :dam son
+2017-03-18 16:02:26.651000 :krabpot!krabpot@krabpot.tmi.twitch.tv PRIVMSG #smashstudios :ROOKIE
+2017-03-18 16:02:26.709000 :nunez939!nunez939@nunez939.tmi.twitch.tv PRIVMSG #smashstudios :HOLY
+2017-03-18 16:02:26.856000 :silverjake7!silverjake7@silverjake7.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:02:27.363000 :dntte!dntte@dntte.tmi.twitch.tv PRIVMSG #smashstudios :MARIOOOO
+2017-03-18 16:02:27.599000 :ranzid511!ranzid511@ranzid511.tmi.twitch.tv PRIVMSG #smashstudios :yooo 100% read
+2017-03-18 16:02:27.859000 :crazypanda47!crazypanda47@crazypanda47.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:02:27.899000 :kjmac02!kjmac02@kjmac02.tmi.twitch.tv PRIVMSG #smashstudios :YO
+2017-03-18 16:02:28.454000 :fishtype1!fishtype1@fishtype1.tmi.twitch.tv PRIVMSG #smashstudios :JV2
+2017-03-18 16:02:29.097000 :georgiaokief!georgiaokief@georgiaokief.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:02:29.730000 :gwbeeb!gwbeeb@gwbeeb.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:02:30.199000 :poshyosh!poshyosh@poshyosh.tmi.twitch.tv PRIVMSG #smashstudios :yo
+2017-03-18 16:02:30.211000 :hyper_flux!hyper_flux@hyper_flux.tmi.twitch.tv PRIVMSG #smashstudios :LOL
+2017-03-18 16:02:30.361000 :anvillain!anvillain@anvillain.tmi.twitch.tv PRIVMSG #smashstudios :reads on reads on reads
+2017-03-18 16:02:30.380000 :grimjowe!grimjowe@grimjowe.tmi.twitch.tv PRIVMSG #smashstudios :wtfffffffff
+2017-03-18 16:02:30.527000 :kablaminator!kablaminator@kablaminator.tmi.twitch.tv PRIVMSG #smashstudios :STIINGG
+2017-03-18 16:02:30.741000 :ragoo47!ragoo47@ragoo47.tmi.twitch.tv PRIVMSG #smashstudios :WOOOOO
+2017-03-18 16:02:31.226000 :rickshocket!rickshocket@rickshocket.tmi.twitch.tv PRIVMSG #smashstudios :A ROOKS
+2017-03-18 16:02:31.447000 :mantis__toboggan__!mantis__toboggan__@mantis__toboggan__.tmi.twitch.tv PRIVMSG #smashstudios :A rookie Kreygasm
+2017-03-18 16:02:31.527000 :weonchileno829!weonchileno829@weonchileno829.tmi.twitch.tv PRIVMSG #smashstudios :whoa porkchops haircut!
+2017-03-18 16:02:31.699000 :nextlevelgg!nextlevelgg@nextlevelgg.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp
+2017-03-18 16:02:31.817000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :Lesgoooo Rookie
+2017-03-18 16:02:32.286000 :caivs!caivs@caivs.tmi.twitch.tv PRIVMSG #smashstudios :ok @dingm8
+2017-03-18 16:02:32.551000 :magicmage256!magicmage256@magicmage256.tmi.twitch.tv PRIVMSG #smashstudios :MARIO!!!!!!
+2017-03-18 16:02:32.861000 :kmartin003!kmartin003@kmartin003.tmi.twitch.tv PRIVMSG #smashstudios :CLEAN HIS PIPES
+2017-03-18 16:02:33.179000 :minnamiteitekure!minnamiteitekure@minnamiteitekure.tmi.twitch.tv PRIVMSG #smashstudios :mario PogChamp
+2017-03-18 16:02:33.811000 :asoftwoman!asoftwoman@asoftwoman.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp mangoScorp mangoScorp mangoScorp
+2017-03-18 16:02:33.906000 :dad_ssbm!dad_ssbm@dad_ssbm.tmi.twitch.tv PRIVMSG #smashstudios :@PixelPeasants, its hard to see i dont blame you lol
+2017-03-18 16:02:34.637000 :megax12yz!megax12yz@megax12yz.tmi.twitch.tv PRIVMSG #smashstudios :mario top tier
+2017-03-18 16:02:34.822000 :canusurvive!canusurvive@canusurvive.tmi.twitch.tv PRIVMSG #smashstudios :WOOOOO
+2017-03-18 16:02:34.949000 :eastbongz!eastbongz@eastbongz.tmi.twitch.tv PRIVMSG #smashstudios :HERE WE GAAOOOO
+2017-03-18 16:02:35.468000 :noid77!noid77@noid77.tmi.twitch.tv PRIVMSG #smashstudios :alright rookie show em
+2017-03-18 16:02:35.581000 :refugegamer!refugegamer@refugegamer.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp mangoScorp
+2017-03-18 16:02:35.596000 :8bitnoah!8bitnoah@8bitnoah.tmi.twitch.tv PRIVMSG #smashstudios :Howtobasic
+2017-03-18 16:02:36.201000 :caivs!caivs@caivs.tmi.twitch.tv PRIVMSG #smashstudios :ok @dinowulf
+2017-03-18 16:02:36.619000 :revneb!revneb@revneb.tmi.twitch.tv PRIVMSG #smashstudios :!schedule
+2017-03-18 16:02:36.843000 :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #smashstudios :https://twitter.com/MVGLeague/status/842598588131790849
+2017-03-18 16:02:37.949000 :cjfast11!cjfast11@cjfast11.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp mangoScorp mangoScorp mangoScorp
+2017-03-18 16:02:38.476000 :noahnado!noahnado@noahnado.tmi.twitch.tv PRIVMSG #smashstudios :A ROOKIE Kreygasm
+2017-03-18 16:02:38.711000 :squishy5quishdp!squishy5quishdp@squishy5quishdp.tmi.twitch.tv PRIVMSG #smashstudios :THAT CAPE WAS INSANE
+2017-03-18 16:02:39.011000 :ertebak!ertebak@ertebak.tmi.twitch.tv PRIVMSG #smashstudios :LUL
+2017-03-18 16:02:40.807000 :asselin228!asselin228@asselin228.tmi.twitch.tv PRIVMSG #smashstudios :why is this man always tryna fair with mario dude you dont need that
+2017-03-18 16:02:41.093000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :dinger!
+2017-03-18 16:02:41.339000 :toastybacon111!toastybacon111@toastybacon111.tmi.twitch.tv PRIVMSG #smashstudios :moon lul
+2017-03-18 16:02:41.362000 :smoomy!smoomy@smoomy.tmi.twitch.tv PRIVMSG #smashstudios :mahrio
+2017-03-18 16:02:42.058000 :kimmysay!kimmysay@kimmysay.tmi.twitch.tv PRIVMSG #smashstudios :WutFacce
+2017-03-18 16:02:43.182000 :zeppelin_rocks!zeppelin_rocks@zeppelin_rocks.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp mangoScorp mangoScorp
+2017-03-18 16:02:43.351000 :ilovesatss!ilovesatss@ilovesatss.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp mangoScorp
+2017-03-18 16:02:44.719000 :kamikaze5533!kamikaze5533@kamikaze5533.tmi.twitch.tv PRIVMSG #smashstudios :what are the IASI frames on shield release? 🤔
+2017-03-18 16:02:45.720000 :rakazo!rakazo@rakazo.tmi.twitch.tv PRIVMSG #smashstudios :LUL
+2017-03-18 16:02:46.465000 :umbrionknight!umbrionknight@umbrionknight.tmi.twitch.tv PRIVMSG #smashstudios :LOL
+2017-03-18 16:02:48.136000 :kablaminator!kablaminator@kablaminator.tmi.twitch.tv PRIVMSG #smashstudios :So marios weakness is FD?
+2017-03-18 16:02:52.469000 :crazypanda47!crazypanda47@crazypanda47.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp
+2017-03-18 16:02:52.825000 :kamikaze5533!kamikaze5533@kamikaze5533.tmi.twitch.tv PRIVMSG #smashstudios :IASA**
+2017-03-18 16:02:53.021000 :gwylum!gwylum@gwylum.tmi.twitch.tv PRIVMSG #smashstudios :lol moon
+2017-03-18 16:02:53.752000 :phroman!phroman@phroman.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp mangoScorp mangoScorp
+2017-03-18 16:02:54.702000 :scoops__!scoops__@scoops__.tmi.twitch.tv PRIVMSG #smashstudios :LMAO
+2017-03-18 16:02:56.987000 :v1nc3b!v1nc3b@v1nc3b.tmi.twitch.tv PRIVMSG #smashstudios :LOOOL
+2017-03-18 16:02:59.497000 :mantis__toboggan__!mantis__toboggan__@mantis__toboggan__.tmi.twitch.tv PRIVMSG #smashstudios :yoohoo
+2017-03-18 16:02:59.881000 :drizzyrhyme!drizzyrhyme@drizzyrhyme.tmi.twitch.tv PRIVMSG #smashstudios :LOLLLL
+2017-03-18 16:02:59.964000 :applying!applying@applying.tmi.twitch.tv PRIVMSG #smashstudios :LMFAO
+2017-03-18 16:03:00.280000 :hyper_flux!hyper_flux@hyper_flux.tmi.twitch.tv PRIVMSG #smashstudios :fuckin moon
+2017-03-18 16:03:00.356000 :chompy_champ!chompy_champ@chompy_champ.tmi.twitch.tv PRIVMSG #smashstudios :The sound like a clubbed seal
+2017-03-18 16:03:00.604000 :sabado12xx!sabado12xx@sabado12xx.tmi.twitch.tv PRIVMSG #smashstudios :lesfo arrokie
+2017-03-18 16:03:03.444000 :caivs!caivs@caivs.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp mangoScorp mangoScorp mangoScorp mangoScorp
+2017-03-18 16:03:06.642000 :deathlessice!deathlessice@deathlessice.tmi.twitch.tv PRIVMSG #smashstudios :Moon going ham on the mic
+2017-03-18 16:03:09.660000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :$$$$$
+2017-03-18 16:03:13.215000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :@IloveSATSs Does your name mean the SAT like standardized test?
+2017-03-18 16:03:16.039000 :slarvax!slarvax@slarvax.tmi.twitch.tv PRIVMSG #smashstudios :DansGame
+2017-03-18 16:03:18.201000 :plups!plups@plups.tmi.twitch.tv PRIVMSG #smashstudios :WutFace
+2017-03-18 16:03:19.364000 :junokims!junokims@junokims.tmi.twitch.tv PRIVMSG #smashstudios :what stage did rookie ban?
+2017-03-18 16:03:20.444000 :jurgaburgaflinstines!jurgaburgaflinstines@jurgaburgaflinstines.tmi.twitch.tv PRIVMSG #smashstudios :DansGame
+2017-03-18 16:03:23.974000 :caivs!caivs@caivs.tmi.twitch.tv PRIVMSG #smashstudios :amazing b button game from mario
+2017-03-18 16:03:25.749000 :chickendonger!chickendonger@chickendonger.tmi.twitch.tv PRIVMSG #smashstudios :Kreygasm
+2017-03-18 16:03:25.884000 :dinowulf!dinowulf@dinowulf.tmi.twitch.tv PRIVMSG #smashstudios :lol
+2017-03-18 16:03:25.909000 :cpt_dope!cpt_dope@cpt_dope.tmi.twitch.tv PRIVMSG #smashstudios :cmonBruh
+2017-03-18 16:03:30.561000 :hot_dogg!hot_dogg@hot_dogg.tmi.twitch.tv PRIVMSG #smashstudios :Kreygasm
+2017-03-18 16:03:30.812000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :yum
+2017-03-18 16:03:31.285000 :earrings!earrings@earrings.tmi.twitch.tv PRIVMSG #smashstudios :lol
+2017-03-18 16:03:31.757000 :toastybacon111!toastybacon111@toastybacon111.tmi.twitch.tv PRIVMSG #smashstudios :a rookie pls cape him
+2017-03-18 16:03:31.922000 :junokims!junokims@junokims.tmi.twitch.tv PRIVMSG #smashstudios :battlefield?
+2017-03-18 16:03:32.857000 :pikmin2!pikmin2@pikmin2.tmi.twitch.tv PRIVMSG #smashstudios :im sure he banned FD
+2017-03-18 16:03:34.342000 :draftyeman!draftyeman@draftyeman.tmi.twitch.tv PRIVMSG #smashstudios :c o o k e d
+2017-03-18 16:03:34.521000 :magicmage256!magicmage256@magicmage256.tmi.twitch.tv PRIVMSG #smashstudios :melee sound is 10/10
+2017-03-18 16:03:35.103000 :ranger_mike!ranger_mike@ranger_mike.tmi.twitch.tv PRIVMSG #smashstudios :LETS GO A ROOKIE
+2017-03-18 16:03:35.477000 :xcolixz!xcolixz@xcolixz.tmi.twitch.tv PRIVMSG #smashstudios :BAMNE
+2017-03-18 16:03:35.604000 :pikmin2!pikmin2@pikmin2.tmi.twitch.tv PRIVMSG #smashstudios :right
+2017-03-18 16:03:35.817000 :residentsleeper22!residentsleeper22@residentsleeper22.tmi.twitch.tv PRIVMSG #smashstudios :Kreygasm
+2017-03-18 16:03:36.120000 :weonchileno829!weonchileno829@weonchileno829.tmi.twitch.tv PRIVMSG #smashstudios :is pokrchops kinda retired? he hasnt traveled in a while
+2017-03-18 16:03:36.589000 :drinksonme72!drinksonme72@drinksonme72.tmi.twitch.tv PRIVMSG #smashstudios :thats the sound when you take your dick OUTTA a girls butt
+2017-03-18 16:03:36.902000 :rakazo!rakazo@rakazo.tmi.twitch.tv PRIVMSG #smashstudios :cucked LUL
+2017-03-18 16:03:37.070000 :krabpot!krabpot@krabpot.tmi.twitch.tv PRIVMSG #smashstudios :ROOKIE WITH THE COOKIES
+2017-03-18 16:03:39.073000 :drizzyrhyme!drizzyrhyme@drizzyrhyme.tmi.twitch.tv PRIVMSG #smashstudios :ROOKIE Kreygasm
+2017-03-18 16:03:39.572000 :chickendonger!chickendonger@chickendonger.tmi.twitch.tv PRIVMSG #smashstudios :Kreygasm that sound when u nut Kreygasm
+2017-03-18 16:03:40.769000 :crazypanda47!crazypanda47@crazypanda47.tmi.twitch.tv PRIVMSG #smashstudios :LETS GO AR Kreygasm
+2017-03-18 16:03:40.834000 :xcolixz!xcolixz@xcolixz.tmi.twitch.tv PRIVMSG #smashstudios :BANNED
+2017-03-18 16:03:42.422000 :undersnore!undersnore@undersnore.tmi.twitch.tv PRIVMSG #smashstudios :WAHOO BING *1-up*
+2017-03-18 16:03:42.704000 :slarvax!slarvax@slarvax.tmi.twitch.tv PRIVMSG #smashstudios :Porkchops in 2017 EleGiggle
+2017-03-18 16:03:44.093000 :kamikazesat!kamikazesat@kamikazesat.tmi.twitch.tv PRIVMSG #smashstudios :ROASTED PIDGEY
+2017-03-18 16:03:45.699000 :dinowulf!dinowulf@dinowulf.tmi.twitch.tv PRIVMSG #smashstudios :his fsmash is always on point.
+2017-03-18 16:03:47.881000 :kablaminator!kablaminator@kablaminator.tmi.twitch.tv PRIVMSG #smashstudios :Is Mario the poor mans Falco
+2017-03-18 16:03:53.354000 :junkpuppy!junkpuppy@junkpuppy.tmi.twitch.tv PRIVMSG #smashstudios :@DrinksOnMe72, whys it gotta be a GIRL's butt?
+2017-03-18 16:03:55.161000 :jeneraljenkins!jeneraljenkins@jeneraljenkins.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp mangoScorp mangoScorp mangoScorp mangoScorp
+2017-03-18 16:03:57.773000 :anon2dk!anon2dk@anon2dk.tmi.twitch.tv PRIVMSG #smashstudios :a rookie looking like Santiago rn
+2017-03-18 16:03:58.203000 :scarleterror!scarleterror@scarleterror.tmi.twitch.tv PRIVMSG #smashstudios :Cucked and making hand lotion noises? OpieOP
+2017-03-18 16:03:58.486000 :meleeitoncod!meleeitoncod@meleeitoncod.tmi.twitch.tv PRIVMSG #smashstudios :ROOKIE FLACO HYPE!
+2017-03-18 16:03:58.638000 :mrmexapino!mrmexapino@mrmexapino.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp mangoScorp mangoScorp
+2017-03-18 16:04:02.052000 :goobhead!goobhead@goobhead.tmi.twitch.tv PRIVMSG #smashstudios :should've counterpicked battlefield
+2017-03-18 16:04:04.441000 :rakazo!rakazo@rakazo.tmi.twitch.tv PRIVMSG #smashstudios :This guys getting C U C K E D EleGiggle
+2017-03-18 16:04:05.337000 :kmartin003!kmartin003@kmartin003.tmi.twitch.tv PRIVMSG #smashstudios :THAT SOUND WHEN OVEN THERMOMETER POPS Kreygasm
+2017-03-18 16:04:06.837000 :pixelpeasants!pixelpeasants@pixelpeasants.tmi.twitch.tv PRIVMSG #smashstudios :A rookie banned the SmashBox and so Porkchops took him to Dreamland.
+2017-03-18 16:04:07.947000 :rizz_khalifa!rizz_khalifa@rizz_khalifa.tmi.twitch.tv PRIVMSG #smashstudios :Mario is actually pretty nice
+2017-03-18 16:04:10.424000 :pikmin2!pikmin2@pikmin2.tmi.twitch.tv PRIVMSG #smashstudios :how does he recover so well with mario wtf
+2017-03-18 16:04:19.187000 :kamikaze5533!kamikaze5533@kamikaze5533.tmi.twitch.tv PRIVMSG #smashstudios :its his main
+2017-03-18 16:04:20.809000 :kamikaze5533!kamikaze5533@kamikaze5533.tmi.twitch.tv PRIVMSG #smashstudios :idk
+2017-03-18 16:04:22.051000 :thenarddogg!thenarddogg@thenarddogg.tmi.twitch.tv PRIVMSG #smashstudios :mario recovery underrated
+2017-03-18 16:04:23.796000 :nomoresmorez!nomoresmorez@nomoresmorez.tmi.twitch.tv PRIVMSG #smashstudios :not sweet spotting just dair ledge
+2017-03-18 16:04:24.542000 :asup759!asup759@asup759.tmi.twitch.tv PRIVMSG #smashstudios :mario's cape is actually godlike
+2017-03-18 16:04:24.732000 :hyper_flux!hyper_flux@hyper_flux.tmi.twitch.tv PRIVMSG #smashstudios :LMAO
+2017-03-18 16:04:25.936000 :dad_ssbm!dad_ssbm@dad_ssbm.tmi.twitch.tv PRIVMSG #smashstudios :@pikmin2, fireballs my guy
+2017-03-18 16:04:26.707000 :teammysticalltheway!teammysticalltheway@teammysticalltheway.tmi.twitch.tv PRIVMSG #smashstudios :!bracket
+2017-03-18 16:04:26.965000 :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #smashstudios :https://smash.gg/tournament/mvg-presents-frame-perfect-series-2-1/events/melee-singles/brackets/99359
+2017-03-18 16:04:27.224000 :hot_dogg!hot_dogg@hot_dogg.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:04:28.512000 :soulflamez137!soulflamez137@soulflamez137.tmi.twitch.tv PRIVMSG #smashstudios :YO
+2017-03-18 16:04:30.388000 :residentsleeper22!residentsleeper22@residentsleeper22.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:04:30.907000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :good lord this guy is a legend
+2017-03-18 16:04:30.960000 :undersnore!undersnore@undersnore.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:04:32.034000 :kamikazesat!kamikazesat@kamikazesat.tmi.twitch.tv PRIVMSG #smashstudios :WESTBROOK HOPS
+2017-03-18 16:04:34.514000 :plups!plups@plups.tmi.twitch.tv PRIVMSG #smashstudios :a rookie is a monster
+2017-03-18 16:04:34.857000 :miraxle!miraxle@miraxle.tmi.twitch.tv PRIVMSG #smashstudios :WHAT WAS THAT
+2017-03-18 16:04:34.942000 :applying!applying@applying.tmi.twitch.tv PRIVMSG #smashstudios :CLAPPED
+2017-03-18 16:04:38.807000 :thebajmahal!thebajmahal@thebajmahal.tmi.twitch.tv PRIVMSG #smashstudios :chops beat rookie last time lets gooo alberttttt
+2017-03-18 16:04:41.629000 :ragoo47!ragoo47@ragoo47.tmi.twitch.tv PRIVMSG #smashstudios :The sweetspot for Mario Up-B is way bigger than it looks
+2017-03-18 16:04:42.117000 :goloche_magicien!goloche_magicien@goloche_magicien.tmi.twitch.tv PRIVMSG #smashstudios :this falco has no di
+2017-03-18 16:04:42.877000 :kkonabrothers!kkonabrothers@kkonabrothers.tmi.twitch.tv PRIVMSG #smashstudios :KKona
+2017-03-18 16:04:44.011000 :geoffj6!geoffj6@geoffj6.tmi.twitch.tv PRIVMSG #smashstudios :SHINE STALL...
+2017-03-18 16:04:44.176000 :satchel_paige!satchel_paige@satchel_paige.tmi.twitch.tv PRIVMSG #smashstudios :mario <3
+2017-03-18 16:04:44.804000 :magicmage256!magicmage256@magicmage256.tmi.twitch.tv PRIVMSG #smashstudios :Falco's lasers are less of an option for ledgeguarding mario because of cape
+2017-03-18 16:04:44.891000 :grimjowe!grimjowe@grimjowe.tmi.twitch.tv PRIVMSG #smashstudios :Scorp 2.0
+2017-03-18 16:04:45.196000 :somewhatroyal!somewhatroyal@somewhatroyal.tmi.twitch.tv PRIVMSG #smashstudios :i main fox and i mario feels really good switching over from fox
+2017-03-18 16:04:46.910000 :striketigre!striketigre@striketigre.tmi.twitch.tv PRIVMSG #smashstudios :A rookie the legend never dies
+2017-03-18 16:04:46.945000 :ragoo47!ragoo47@ragoo47.tmi.twitch.tv PRIVMSG #smashstudios :Just a lack of drift
+2017-03-18 16:04:47.542000 :dad_ssbm!dad_ssbm@dad_ssbm.tmi.twitch.tv PRIVMSG #smashstudios :a good mario is really scary
+2017-03-18 16:04:48.313000 :weonchileno829!weonchileno829@weonchileno829.tmi.twitch.tv PRIVMSG #smashstudios :porkchops pls
+2017-03-18 16:04:50.842000 :kamikazesat!kamikazesat@kamikazesat.tmi.twitch.tv PRIVMSG #smashstudios :can a rookie shield drop?
+2017-03-18 16:04:52.676000 :junkpuppy!junkpuppy@junkpuppy.tmi.twitch.tv PRIVMSG #smashstudios :if he beat porkchops how big an upset would it be?
+2017-03-18 16:04:54.346000 :somewhatroyal!somewhatroyal@somewhatroyal.tmi.twitch.tv PRIVMSG #smashstudios :marios dope
+2017-03-18 16:05:01.904000 :thatisfalcon!thatisfalcon@thatisfalcon.tmi.twitch.tv PRIVMSG #smashstudios :A Rookie vs Scorpion Master Kreygasm
+2017-03-18 16:05:03.297000 :pixelpeasants!pixelpeasants@pixelpeasants.tmi.twitch.tv PRIVMSG #smashstudios :A skilled mario can beat any roy.
+2017-03-18 16:05:04.978000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :slick
+2017-03-18 16:05:07.433000 :hyper_flux!hyper_flux@hyper_flux.tmi.twitch.tv PRIVMSG #smashstudios :HOLY FUCK
+2017-03-18 16:05:07.851000 :soulflamez137!soulflamez137@soulflamez137.tmi.twitch.tv PRIVMSG #smashstudios :OMG
+2017-03-18 16:05:07.867000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :OOOOOH
+2017-03-18 16:05:07.894000 :weonchileno829!weonchileno829@weonchileno829.tmi.twitch.tv PRIVMSG #smashstudios :dam
+2017-03-18 16:05:07.970000 :hot_dogg!hot_dogg@hot_dogg.tmi.twitch.tv PRIVMSG #smashstudios :OOOOOOOO
+2017-03-18 16:05:08.780000 :tonyb4con!tonyb4con@tonyb4con.tmi.twitch.tv PRIVMSG #smashstudios :C O O K E D
+2017-03-18 16:05:09.100000 :zzzlol94!zzzlol94@zzzlol94.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:09.120000 :caivs!caivs@caivs.tmi.twitch.tv PRIVMSG #smashstudios :whoa
+2017-03-18 16:05:09.190000 :plups!plups@plups.tmi.twitch.tv PRIVMSG #smashstudios :CHILL
+2017-03-18 16:05:09.392000 :talesoftony!talesoftony@talesoftony.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:09.617000 :mantis__toboggan__!mantis__toboggan__@mantis__toboggan__.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:09.797000 :pikmin2!pikmin2@pikmin2.tmi.twitch.tv PRIVMSG #smashstudios :RUDE
+2017-03-18 16:05:09.805000 :yume___!yume___@yume___.tmi.twitch.tv PRIVMSG #smashstudios :YOOOO
+2017-03-18 16:05:09.856000 :failatliving!failatliving@failatliving.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:10.134000 :pantherpewbs!pantherpewbs@pantherpewbs.tmi.twitch.tv PRIVMSG #smashstudios :omggg
+2017-03-18 16:05:10.176000 :stevenk4!stevenk4@stevenk4.tmi.twitch.tv PRIVMSG #smashstudios :WTF
+2017-03-18 16:05:10.348000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :HOLY SHIT
+2017-03-18 16:05:10.356000 :robbydax!robbydax@robbydax.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:10.430000 :peter0611!peter0611@peter0611.tmi.twitch.tv PRIVMSG #smashstudios :OMFG
+2017-03-18 16:05:10.549000 :brainz4gainz!brainz4gainz@brainz4gainz.tmi.twitch.tv PRIVMSG #smashstudios :FUCK
+2017-03-18 16:05:10.675000 :minnamiteitekure!minnamiteitekure@minnamiteitekure.tmi.twitch.tv PRIVMSG #smashstudios :yooo
+2017-03-18 16:05:10.717000 :slarvax!slarvax@slarvax.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:10.722000 :captain_price_!captain_price_@captain_price_.tmi.twitch.tv PRIVMSG #smashstudios :OOOMG
+2017-03-18 16:05:10.730000 :shady404!shady404@shady404.tmi.twitch.tv PRIVMSG #smashstudios :YOOOOOOOOO
+2017-03-18 16:05:10.939000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :fukkkkkkkkkk
+2017-03-18 16:05:11.004000 :jpbayb!jpbayb@jpbayb.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp PogChamp
+2017-03-18 16:05:11.232000 :immortalchamp!immortalchamp@immortalchamp.tmi.twitch.tv PRIVMSG #smashstudios :YO
+2017-03-18 16:05:11.337000 :anvillain!anvillain@anvillain.tmi.twitch.tv PRIVMSG #smashstudios :holy shit
+2017-03-18 16:05:11.354000 :backwards_hat!backwards_hat@backwards_hat.tmi.twitch.tv PRIVMSG #smashstudios :yo
+2017-03-18 16:05:11.433000 :voidknight20!voidknight20@voidknight20.tmi.twitch.tv PRIVMSG #smashstudios :YOOOOOO
+2017-03-18 16:05:11.506000 :thetruesquish!thetruesquish@thetruesquish.tmi.twitch.tv PRIVMSG #smashstudios :dirty
+2017-03-18 16:05:11.653000 :kamikaze5533!kamikaze5533@kamikaze5533.tmi.twitch.tv PRIVMSG #smashstudios :u get an extra
+2017-03-18 16:05:11.694000 :whpowell96!whpowell96@whpowell96.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:11.801000 :rakazo!rakazo@rakazo.tmi.twitch.tv PRIVMSG #smashstudios :YOOOOOOOOOOOOOOOOO
+2017-03-18 16:05:11.860000 :sand_cat!sand_cat@sand_cat.tmi.twitch.tv PRIVMSG #smashstudios :YOOOO
+2017-03-18 16:05:11.870000 :earrings!earrings@earrings.tmi.twitch.tv PRIVMSG #smashstudios :COOKED
+2017-03-18 16:05:12.060000 :asce_blayze!asce_blayze@asce_blayze.tmi.twitch.tv PRIVMSG #smashstudios :OOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+2017-03-18 16:05:12.294000 :joeynba23!joeynba23@joeynba23.tmi.twitch.tv PRIVMSG #smashstudios :omfg
+2017-03-18 16:05:12.394000 :junokims!junokims@junokims.tmi.twitch.tv PRIVMSG #smashstudios :YO ROOKIE FOR MIOM??
+2017-03-18 16:05:12.516000 :smeedot!smeedot@smeedot.tmi.twitch.tv PRIVMSG #smashstudios :mangoKrey mangoKrey mangoKrey mangoKrey
+2017-03-18 16:05:12.756000 :benpup!benpup@benpup.tmi.twitch.tv PRIVMSG #smashstudios :DAS A CLIPPPPPP
+2017-03-18 16:05:12.904000 :kjmac02!kjmac02@kjmac02.tmi.twitch.tv PRIVMSG #smashstudios :oooooooooooh
+2017-03-18 16:05:12.914000 :dskosaku!dskosaku@dskosaku.tmi.twitch.tv PRIVMSG #smashstudios :ROOKS COOKS
+2017-03-18 16:05:12.929000 :thewarrior91!thewarrior91@thewarrior91.tmi.twitch.tv PRIVMSG #smashstudios :SPICY BOYS
+2017-03-18 16:05:13.176000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :FUCK YEAH
+2017-03-18 16:05:13.427000 :sabado12xx!sabado12xx@sabado12xx.tmi.twitch.tv PRIVMSG #smashstudios :omg
+2017-03-18 16:05:13.512000 :beposama!beposama@beposama.tmi.twitch.tv PRIVMSG #smashstudios :YOOOOO
+2017-03-18 16:05:13.704000 :snoop_saiyan!snoop_saiyan@snoop_saiyan.tmi.twitch.tv PRIVMSG #smashstudios :OOOOOH FUCJSHDH
+2017-03-18 16:05:13.748000 :mangohelpmewithmyhw!mangohelpmewithmyhw@mangohelpmewithmyhw.tmi.twitch.tv PRIVMSG #smashstudios :YOOOOO
+2017-03-18 16:05:13.887000 :silverjake7!silverjake7@silverjake7.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:13.952000 :residentsleeper22!residentsleeper22@residentsleeper22.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:13.990000 :pantherpewbs!pantherpewbs@pantherpewbs.tmi.twitch.tv PRIVMSG #smashstudios :WTFFFFFFF
+2017-03-18 16:05:14.328000 :olimanrules!olimanrules@olimanrules.tmi.twitch.tv PRIVMSG #smashstudios :OH MY GODODSPGSJDGLSD
+2017-03-18 16:05:14.346000 :jurgaburgaflinstines!jurgaburgaflinstines@jurgaburgaflinstines.tmi.twitch.tv PRIVMSG #smashstudios :WOOOOOOOOOOOOOO
+2017-03-18 16:05:14.449000 :narf0000!narf0000@narf0000.tmi.twitch.tv PRIVMSG #smashstudios :https://clips.twitch.tv/BlatantManlySparrowFUNgineer
+2017-03-18 16:05:14.537000 :goloche_magicien!goloche_magicien@goloche_magicien.tmi.twitch.tv PRIVMSG #smashstudios :HOLY SHIT
+2017-03-18 16:05:14.644000 :mastamoose!mastamoose@mastamoose.tmi.twitch.tv PRIVMSG #smashstudios :C H E F
+2017-03-18 16:05:14.674000 :neo_brsk!neo_brsk@neo_brsk.tmi.twitch.tv PRIVMSG #smashstudios :OOOOOOOOOOOOOOOOOOOO
+2017-03-18 16:05:14.767000 :struggler01!struggler01@struggler01.tmi.twitch.tv PRIVMSG #smashstudios :THAT WAS NUTTTTTS
+2017-03-18 16:05:14.957000 :joeynba23!joeynba23@joeynba23.tmi.twitch.tv PRIVMSG #smashstudios :YOOOOO
+2017-03-18 16:05:14.994000 :fishtype1!fishtype1@fishtype1.tmi.twitch.tv PRIVMSG #smashstudios :LOOOOOOL
+2017-03-18 16:05:15.042000 :hyper_flux!hyper_flux@hyper_flux.tmi.twitch.tv PRIVMSG #smashstudios :EAT YOUR HEART OUT SCORP
+2017-03-18 16:05:15.062000 :s_tier!s_tier@s_tier.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:15.362000 :djdriftking_97!djdriftking_97@djdriftking_97.tmi.twitch.tv PRIVMSG #smashstudios :outplayedddddd
+2017-03-18 16:05:15.434000 :zzzlol94!zzzlol94@zzzlol94.tmi.twitch.tv PRIVMSG #smashstudios :CHEF ROOKIE
+2017-03-18 16:05:15.437000 :nunez939!nunez939@nunez939.tmi.twitch.tv PRIVMSG #smashstudios :OOOOOOOO
+2017-03-18 16:05:15.449000 :georgiaokief!georgiaokief@georgiaokief.tmi.twitch.tv PRIVMSG #smashstudios :WHAAAAAAT
+2017-03-18 16:05:15.526000 :xnakelx!xnakelx@xnakelx.tmi.twitch.tv PRIVMSG #smashstudios :CLIP!!!
+2017-03-18 16:05:15.633000 :caivs!caivs@caivs.tmi.twitch.tv PRIVMSG #smashstudios :wow
+2017-03-18 16:05:15.701000 :oj_poured!oj_poured@oj_poured.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:15.705000 :rizz_khalifa!rizz_khalifa@rizz_khalifa.tmi.twitch.tv PRIVMSG #smashstudios :Ooooo
+2017-03-18 16:05:15.776000 :torchperish!torchperish@torchperish.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:15.882000 :kajifredes!kajifredes@kajifredes.tmi.twitch.tv PRIVMSG #smashstudios :HOLY SHITTTTTTTTTTTTT
+2017-03-18 16:05:16.250000 :studkip!studkip@studkip.tmi.twitch.tv PRIVMSG #smashstudios :OMG
+2017-03-18 16:05:16.292000 :nekrolord!nekrolord@nekrolord.tmi.twitch.tv PRIVMSG #smashstudios :NO WAY
+2017-03-18 16:05:16.643000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :YO
+2017-03-18 16:05:16.671000 :miraxle!miraxle@miraxle.tmi.twitch.tv PRIVMSG #smashstudios :WOAH
+2017-03-18 16:05:16.787000 :chompy_champ!chompy_champ@chompy_champ.tmi.twitch.tv PRIVMSG #smashstudios :WTF
+2017-03-18 16:05:16.922000 :seductivewubz!seductivewubz@seductivewubz.tmi.twitch.tv PRIVMSG #smashstudios :isnt porkchop supposed to be good
+2017-03-18 16:05:17.124000 :orcarena!orcarena@orcarena.tmi.twitch.tv PRIVMSG #smashstudios :CHEF ROOKS
+2017-03-18 16:05:17.174000 :canusurvive!canusurvive@canusurvive.tmi.twitch.tv PRIVMSG #smashstudios :WHAT THE FUCK
+2017-03-18 16:05:17.279000 :chetmagongalo!chetmagongalo@chetmagongalo.tmi.twitch.tv PRIVMSG #smashstudios :A ROOKIE IS A GOD
+2017-03-18 16:05:17.304000 :deathlessice!deathlessice@deathlessice.tmi.twitch.tv PRIVMSG #smashstudios :YO SCORCH CHILL BRO
+2017-03-18 16:05:17.528000 :thegnomessb!thegnomessb@thegnomessb.tmi.twitch.tv PRIVMSG #smashstudios :ROOKIEEEE
+2017-03-18 16:05:17.682000 :awesomemathieu!awesomemathieu@awesomemathieu.tmi.twitch.tv PRIVMSG #smashstudios :YOOOOOOOOOOOOOOOOOOOOOOOOOO
+2017-03-18 16:05:17.764000 :cpt_dope!cpt_dope@cpt_dope.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp
+2017-03-18 16:05:17.815000 :krabpot!krabpot@krabpot.tmi.twitch.tv PRIVMSG #smashstudios :ROOKS WITH THE COOKS
+2017-03-18 16:05:17.855000 :nunez939!nunez939@nunez939.tmi.twitch.tv PRIVMSG #smashstudios :OOOOOOCOGDFHORTUOJR
+2017-03-18 16:05:17.895000 :jurgaburgaflinstines!jurgaburgaflinstines@jurgaburgaflinstines.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:18.057000 :satchel_paige!satchel_paige@satchel_paige.tmi.twitch.tv PRIVMSG #smashstudios :YOOOOOOOOOO Kreygasm
+2017-03-18 16:05:18.169000 :drdugong!drdugong@drdugong.tmi.twitch.tv PRIVMSG #smashstudios :god damn
+2017-03-18 16:05:18.189000 :asselin228!asselin228@asselin228.tmi.twitch.tv PRIVMSG #smashstudios :that was clean tho
+2017-03-18 16:05:18.256000 :asup759!asup759@asup759.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:18.276000 :phroman!phroman@phroman.tmi.twitch.tv PRIVMSG #smashstudios :HOLY FUCK
+2017-03-18 16:05:18.296000 :kamikazesat!kamikazesat@kamikazesat.tmi.twitch.tv PRIVMSG #smashstudios :YOOOOOO....GODDAMN
+2017-03-18 16:05:18.342000 :kmartin003!kmartin003@kmartin003.tmi.twitch.tv PRIVMSG #smashstudios :COOKIN THE BOOKS
+2017-03-18 16:05:18.392000 :slie7265!slie7265@slie7265.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:18.419000 :renotssmash!renotssmash@renotssmash.tmi.twitch.tv PRIVMSG #smashstudios :that was fucking insanse
+2017-03-18 16:05:18.487000 :asce_blayze!asce_blayze@asce_blayze.tmi.twitch.tv PRIVMSG #smashstudios :MARIO
+2017-03-18 16:05:18.532000 :zteetsy!zteetsy@zteetsy.tmi.twitch.tv PRIVMSG #smashstudios :got em
+2017-03-18 16:05:18.566000 :jsabz!jsabz@jsabz.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:18.713000 :alphaj0717!alphaj0717@alphaj0717.tmi.twitch.tv PRIVMSG #smashstudios :YOOOOOOOOOOOOO
+2017-03-18 16:05:18.846000 :dinowulf!dinowulf@dinowulf.tmi.twitch.tv PRIVMSG #smashstudios :@smashstudios thats right.
+2017-03-18 16:05:19.439000 :drizzyrhyme!drizzyrhyme@drizzyrhyme.tmi.twitch.tv PRIVMSG #smashstudios :YOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+2017-03-18 16:05:19.460000 :poshyosh!poshyosh@poshyosh.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:19.590000 :backwards_hat!backwards_hat@backwards_hat.tmi.twitch.tv PRIVMSG #smashstudios :hi reddit
+2017-03-18 16:05:19.702000 :noid77!noid77@noid77.tmi.twitch.tv PRIVMSG #smashstudios :yooook
+2017-03-18 16:05:19.926000 :yetiapocalypse!yetiapocalypse@yetiapocalypse.tmi.twitch.tv PRIVMSG #smashstudios :HOLY SHIIIIIIT
+2017-03-18 16:05:20.076000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :This dude
+2017-03-18 16:05:20.099000 :saucys!saucys@saucys.tmi.twitch.tv PRIVMSG #smashstudios :ppmdThink
+2017-03-18 16:05:20.867000 :juiceboxfilms!juiceboxfilms@juiceboxfilms.tmi.twitch.tv PRIVMSG #smashstudios :Oh my lord
+2017-03-18 16:05:21.704000 :nunez939!nunez939@nunez939.tmi.twitch.tv PRIVMSG #smashstudios :OHHHHHOOOOOHOHOOHOO
+2017-03-18 16:05:21.777000 :toastybacon111!toastybacon111@toastybacon111.tmi.twitch.tv PRIVMSG #smashstudios :HAMBURGER HELPER
+2017-03-18 16:05:22.326000 :whosnameisthis!whosnameisthis@whosnameisthis.tmi.twitch.tv PRIVMSG #smashstudios :https://clips.twitch.tv/CourageousPoliteKoalaPogChamp/edit
+2017-03-18 16:05:22.870000 :damnspiderman!damnspiderman@damnspiderman.tmi.twitch.tv PRIVMSG #smashstudios :bodied by a mario
+2017-03-18 16:05:23.078000 :striketigre!striketigre@striketigre.tmi.twitch.tv PRIVMSG #smashstudios :Clip that shit
+2017-03-18 16:05:23.204000 :miraxle!miraxle@miraxle.tmi.twitch.tv PRIVMSG #smashstudios :ODDSHOT BOYS
+2017-03-18 16:05:23.666000 :ragoo47!ragoo47@ragoo47.tmi.twitch.tv PRIVMSG #smashstudios :REDDIT
+2017-03-18 16:05:23.824000 :masafumsa!masafumsa@masafumsa.tmi.twitch.tv PRIVMSG #smashstudios :ahhhhhh i love it
+2017-03-18 16:05:23.854000 :dinowulf!dinowulf@dinowulf.tmi.twitch.tv PRIVMSG #smashstudios :fucking bodied
+2017-03-18 16:05:24.006000 :melonheadsmith69!melonheadsmith69@melonheadsmith69.tmi.twitch.tv PRIVMSG #smashstudios :Yooooooooooooo
+2017-03-18 16:05:24.029000 :asoftwoman!asoftwoman@asoftwoman.tmi.twitch.tv PRIVMSG #smashstudios :mangoPog mangoPog mangoPog mangoPog mangoPog mangoPog mangoPog mangoPog mangoPog
+2017-03-18 16:05:24.550000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :THAT WAS SEXY
+2017-03-18 16:05:24.642000 :scootervalentine!scootervalentine@scootervalentine.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:25.464000 :coriamon!coriamon@coriamon.tmi.twitch.tv PRIVMSG #smashstudios :He might've made it back
+2017-03-18 16:05:25.972000 :smashmac_!smashmac_@smashmac_.tmi.twitch.tv PRIVMSG #smashstudios :Kreygasm
+2017-03-18 16:05:26.028000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :THIS DUDE
+2017-03-18 16:05:26.226000 :doctor_hotel_mario!doctor_hotel_mario@doctor_hotel_mario.tmi.twitch.tv PRIVMSG #smashstudios :SCORPION'S DESCIPLE PogChamp
+2017-03-18 16:05:27.232000 :mrmexapino!mrmexapino@mrmexapino.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp mangoScorp mangoScorp mangoScorp mangoScorp mangoScorp mangoScorp mangoScorp mangoScorp
+2017-03-18 16:05:27.569000 :howlingretribution!howlingretribution@howlingretribution.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:05:27.936000 :rngj3sus!rngj3sus@rngj3sus.tmi.twitch.tv PRIVMSG #smashstudios :!bracket
+2017-03-18 16:05:28.137000 :yaooob17!yaooob17@yaooob17.tmi.twitch.tv PRIVMSG #smashstudios :DAMNNNNN
+2017-03-18 16:05:28.163000 :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #smashstudios :https://smash.gg/tournament/mvg-presents-frame-perfect-series-2-1/events/melee-singles/brackets/99359
+2017-03-18 16:05:28.293000 :branzoz!branzoz@branzoz.tmi.twitch.tv PRIVMSG #smashstudios :What is a Man to a God?
+2017-03-18 16:05:28.309000 :alphaj0717!alphaj0717@alphaj0717.tmi.twitch.tv PRIVMSG #smashstudios :MARI OHHH
+2017-03-18 16:05:29.431000 :melonheadsmith69!melonheadsmith69@melonheadsmith69.tmi.twitch.tv PRIVMSG #smashstudios :Oddshot
+2017-03-18 16:05:30.698000 :thegnomessb!thegnomessb@thegnomessb.tmi.twitch.tv PRIVMSG #smashstudios :ROOKIE VS SCORP WHEN
+2017-03-18 16:05:31.529000 :beachpatrolofficial!beachpatrolofficial@beachpatrolofficial.tmi.twitch.tv PRIVMSG #smashstudios :WHOSE MANS IS THIS
+2017-03-18 16:05:31.550000 :rakazo!rakazo@rakazo.tmi.twitch.tv PRIVMSG #smashstudios :HI REDDIT
+2017-03-18 16:05:33.101000 :drowzyboi!drowzyboi@drowzyboi.tmi.twitch.tv PRIVMSG #smashstudios :why are they talking about hbox :thinkign:
+2017-03-18 16:05:33.404000 :vulcaron!vulcaron@vulcaron.tmi.twitch.tv PRIVMSG #smashstudios :HAMBURGER H E L P E R
+2017-03-18 16:05:35.004000 :kamikazesat!kamikazesat@kamikazesat.tmi.twitch.tv PRIVMSG #smashstudios :He tried to do the wall jump recovery trick
+2017-03-18 16:05:35.010000 :scootervalentine!scootervalentine@scootervalentine.tmi.twitch.tv PRIVMSG #smashstudios :COOK MASTER!
+2017-03-18 16:05:37.369000 :nextlevelgg!nextlevelgg@nextlevelgg.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp END HIM SCORP
+2017-03-18 16:05:37.750000 :fisticuffs50!fisticuffs50@fisticuffs50.tmi.twitch.tv PRIVMSG #smashstudios :https://clips.twitch.tv/BoxySpinelessHedgehogGingerPower
+2017-03-18 16:05:38.241000 :isaotron!isaotron@isaotron.tmi.twitch.tv PRIVMSG #smashstudios :COOK MASTER
+2017-03-18 16:05:38.499000 :yume___!yume___@yume___.tmi.twitch.tv PRIVMSG #smashstudios :LOL
+2017-03-18 16:05:40.554000 :thatisfalcon!thatisfalcon@thatisfalcon.tmi.twitch.tv PRIVMSG #smashstudios :Hello daily Melee highlights CoolStoryBob
+2017-03-18 16:05:41.393000 :georgiaokief!georgiaokief@georgiaokief.tmi.twitch.tv PRIVMSG #smashstudios :That was fukcing clean
+2017-03-18 16:05:47.332000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :That was sexy
+2017-03-18 16:05:47.492000 :voester!voester@voester.tmi.twitch.tv PRIVMSG #smashstudios :is mango really going scorp all weekend?
+2017-03-18 16:05:47.780000 :duxedo!duxedo@duxedo.tmi.twitch.tv PRIVMSG #smashstudios :rookie is so cool
+2017-03-18 16:05:48.305000 :pikmin2!pikmin2@pikmin2.tmi.twitch.tv PRIVMSG #smashstudios :LMAO
+2017-03-18 16:05:48.440000 :caivs!caivs@caivs.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp mangoScorp mangoScorp
+2017-03-18 16:05:53.626000 :zzzlol94!zzzlol94@zzzlol94.tmi.twitch.tv PRIVMSG #smashstudios :La Luna Kreygasm
+2017-03-18 16:05:54.894000 :miraxle!miraxle@miraxle.tmi.twitch.tv PRIVMSG #smashstudios :Hello MVG highlights OpieOP
+2017-03-18 16:06:02.042000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :rookie just body this dude already
+2017-03-18 16:06:02.439000 :weonchileno829!weonchileno829@weonchileno829.tmi.twitch.tv PRIVMSG #smashstudios :over
+2017-03-18 16:06:04.315000 :scootervalentine!scootervalentine@scootervalentine.tmi.twitch.tv PRIVMSG #smashstudios :the moon commentary Kreygasm
+2017-03-18 16:06:04.650000 :hot_dogg!hot_dogg@hot_dogg.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:06:05.005000 :beppo129!beppo129@beppo129.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:06:07.735000 :thehiddenboss!thehiddenboss@thehiddenboss.tmi.twitch.tv PRIVMSG #smashstudios :A rookie Kreygasm
+2017-03-18 16:06:09.944000 :thewarrior91!thewarrior91@thewarrior91.tmi.twitch.tv PRIVMSG #smashstudios :la luna Kreygasm
+2017-03-18 16:06:10.352000 :magicmage256!magicmage256@magicmage256.tmi.twitch.tv PRIVMSG #smashstudios :Scared Lasers?
+2017-03-18 16:06:13.139000 :kamikazesat!kamikazesat@kamikazesat.tmi.twitch.tv PRIVMSG #smashstudios :u bout to catch these gloves
+2017-03-18 16:06:13.902000 :oj_poured!oj_poured@oj_poured.tmi.twitch.tv PRIVMSG #smashstudios :LETS GO PORKCHOPS
+2017-03-18 16:06:14.025000 :benpup!benpup@benpup.tmi.twitch.tv PRIVMSG #smashstudios :my guy
+2017-03-18 16:06:14.179000 :soulflamez137!soulflamez137@soulflamez137.tmi.twitch.tv PRIVMSG #smashstudios :DAMN
+2017-03-18 16:06:14.257000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :yes
+2017-03-18 16:06:14.350000 :tonyb4con!tonyb4con@tonyb4con.tmi.twitch.tv PRIVMSG #smashstudios :C O O K E D
+2017-03-18 16:06:14.434000 :pikmin2!pikmin2@pikmin2.tmi.twitch.tv PRIVMSG #smashstudios :MY GUY
+2017-03-18 16:06:14.834000 :litbiscuits!litbiscuits@litbiscuits.tmi.twitch.tv PRIVMSG #smashstudios :the moon commentary is amazing
+2017-03-18 16:06:16.170000 :hyper_flux!hyper_flux@hyper_flux.tmi.twitch.tv PRIVMSG #smashstudios :clean as fuck
+2017-03-18 16:06:16.302000 :slarvax!slarvax@slarvax.tmi.twitch.tv PRIVMSG #smashstudios :BODIED
+2017-03-18 16:06:16.307000 :kamikaze5533!kamikaze5533@kamikaze5533.tmi.twitch.tv PRIVMSG #smashstudios :Porkchops dead again FeelsBadMan
+2017-03-18 16:06:17.396000 :hot_dogg!hot_dogg@hot_dogg.tmi.twitch.tv PRIVMSG #smashstudios :lets gooooooo
+2017-03-18 16:06:17.985000 :computerslime!computerslime@computerslime.tmi.twitch.tv PRIVMSG #smashstudios :I've missed everything NotLikeThis
+2017-03-18 16:06:18.425000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :daaaaammmmnn
+2017-03-18 16:06:20.556000 :chowderonvhs!chowderonvhs@chowderonvhs.tmi.twitch.tv PRIVMSG #smashstudios :!bracket
+2017-03-18 16:06:20.717000 :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #smashstudios :https://smash.gg/tournament/mvg-presents-frame-perfect-series-2-1/events/melee-singles/brackets/99359
+2017-03-18 16:06:20.878000 :goer_!goer_@goer_.tmi.twitch.tv PRIVMSG #smashstudios :81 BOIS
+2017-03-18 16:06:21.132000 :coriamon!coriamon@coriamon.tmi.twitch.tv PRIVMSG #smashstudios :Nice job A Rookie
+2017-03-18 16:06:21.525000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :lets goooo
+2017-03-18 16:06:22.059000 :caivs!caivs@caivs.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp mangoScorp mangoScorp mangoScorp mangoScorp mangoScorp mangoScorp
+2017-03-18 16:06:22.092000 :link1356!link1356@link1356.tmi.twitch.tv PRIVMSG #smashstudios :cucked
+2017-03-18 16:06:22.412000 :s_tier!s_tier@s_tier.tmi.twitch.tv PRIVMSG #smashstudios :wow
+2017-03-18 16:06:22.521000 :drizzyrhyme!drizzyrhyme@drizzyrhyme.tmi.twitch.tv PRIVMSG #smashstudios :LETS GOOOOO
+2017-03-18 16:06:22.579000 :scarleterror!scarleterror@scarleterror.tmi.twitch.tv PRIVMSG #smashstudios :KappaPride
+2017-03-18 16:06:22.832000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :Lesgo Rookie!
+2017-03-18 16:06:22.844000 :failatliving!failatliving@failatliving.tmi.twitch.tv PRIVMSG #smashstudios :FeelsBadMan
+2017-03-18 16:06:23.740000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :yes
+2017-03-18 16:06:23.979000 :jpbayb!jpbayb@jpbayb.tmi.twitch.tv PRIVMSG #smashstudios :SMELLY GLOVES
+2017-03-18 16:06:24.278000 :miraxle!miraxle@miraxle.tmi.twitch.tv PRIVMSG #smashstudios :My guy
+2017-03-18 16:06:25.157000 :zzzlol94!zzzlol94@zzzlol94.tmi.twitch.tv PRIVMSG #smashstudios :ROASTED
+2017-03-18 16:06:25.157000 :robbydax!robbydax@robbydax.tmi.twitch.tv PRIVMSG #smashstudios :Swept by Mario LUL
+:dinowulf!dinowulf@dinowulf.tmi.twitch.tv PRIVMSG #smashstudios :1985
+2017-03-18 16:06:25.817000 :goloche_magicien!goloche_magicien@goloche_magicien.tmi.twitch.tv PRIVMSG #smashstudios :yesssss
+2017-03-18 16:06:26.521000 :ikethebeast!ikethebeast@ikethebeast.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp
+2017-03-18 16:06:26.632000 :doctor_hotel_mario!doctor_hotel_mario@doctor_hotel_mario.tmi.twitch.tv PRIVMSG #smashstudios :GIVE ME MORE OF HIM PLEASE
+2017-03-18 16:06:27.129000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :Good shit man good shit
+2017-03-18 16:06:27.695000 :vulcaron!vulcaron@vulcaron.tmi.twitch.tv PRIVMSG #smashstudios :1981 boys
+2017-03-18 16:06:27.784000 :bilbo_broadus!bilbo_broadus@bilbo_broadus.tmi.twitch.tv PRIVMSG #smashstudios :MARIO
+2017-03-18 16:06:27.812000 :applying!applying@applying.tmi.twitch.tv PRIVMSG #smashstudios :CLAPPED
+2017-03-18 16:06:29.078000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :2-0
+2017-03-18 16:06:29.302000 :kamikazesat!kamikazesat@kamikazesat.tmi.twitch.tv PRIVMSG #smashstudios :Rookie brollic
+2017-03-18 16:06:29.417000 :matanua!matanua@matanua.tmi.twitch.tv PRIVMSG #smashstudios :PJSalt
+2017-03-18 16:06:29.469000 :wompt!wompt@wompt.tmi.twitch.tv PRIVMSG #smashstudios :SadChops
+2017-03-18 16:06:29.492000 :believeblood!believeblood@believeblood.tmi.twitch.tv PRIVMSG #smashstudios :falco sux
+2017-03-18 16:06:30.350000 :struggler01!struggler01@struggler01.tmi.twitch.tv PRIVMSG #smashstudios :Good shit ROOK i'll always remember that ass whoopin
+2017-03-18 16:06:30.420000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :damn
+2017-03-18 16:06:30.777000 :alphaj0717!alphaj0717@alphaj0717.tmi.twitch.tv PRIVMSG #smashstudios :did someone clip that combo?
+2017-03-18 16:06:30.817000 :wolveywright!wolveywright@wolveywright.tmi.twitch.tv PRIVMSG #smashstudios :the moon is by far the best commentator
+2017-03-18 16:06:31.100000 :tekkenmiguel!tekkenmiguel@tekkenmiguel.tmi.twitch.tv PRIVMSG #smashstudios :PJSalt
+2017-03-18 16:06:31.612000 :sabado12xx!sabado12xx@sabado12xx.tmi.twitch.tv PRIVMSG #smashstudios :lesgo a rookie
+2017-03-18 16:06:32.523000 :orcarena!orcarena@orcarena.tmi.twitch.tv PRIVMSG #smashstudios :ResidentSleeper DOUBLES ResidentSleeper
+2017-03-18 16:06:32.654000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :2-0 money makin!
+2017-03-18 16:06:32.851000 :sirdiesalot7!sirdiesalot7@sirdiesalot7.tmi.twitch.tv PRIVMSG #smashstudios :1981
+2017-03-18 16:06:32.928000 :dynamicvirus!dynamicvirus@dynamicvirus.tmi.twitch.tv PRIVMSG #smashstudios :porkchops cut his hair :O
+2017-03-18 16:06:34.481000 :rizz_khalifa!rizz_khalifa@rizz_khalifa.tmi.twitch.tv PRIVMSG #smashstudios :Snes rooks
+2017-03-18 16:06:34.575000 :camtwo!camtwo@camtwo.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp mangoScorp mangoScorp
+2017-03-18 16:06:35.423000 :striketigre!striketigre@striketigre.tmi.twitch.tv PRIVMSG #smashstudios :So mango gets a free winners finals lol
+2017-03-18 16:06:36.629000 :mantis__toboggan__!mantis__toboggan__@mantis__toboggan__.tmi.twitch.tv PRIVMSG #smashstudios :TriHard
+2017-03-18 16:06:37.095000 :toasturr!toasturr@toasturr.tmi.twitch.tv PRIVMSG #smashstudios :wtf mangoScorp mangoScorp mangoScorp
+2017-03-18 16:06:37.410000 :deronia!deronia@deronia.tmi.twitch.tv PRIVMSG #smashstudios :CUCKS EleGiggle
+2017-03-18 16:06:37.620000 :thaane!thaane@thaane.tmi.twitch.tv PRIVMSG #smashstudios :with the C U C K S
+2017-03-18 16:06:38.232000 :hot_dogg!hot_dogg@hot_dogg.tmi.twitch.tv PRIVMSG #smashstudios :LUL
+2017-03-18 16:06:38.983000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :D1!
+2017-03-18 16:06:39.529000 :ranger_mike!ranger_mike@ranger_mike.tmi.twitch.tv PRIVMSG #smashstudios :!schedule
+2017-03-18 16:06:39.732000 :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #smashstudios :https://twitter.com/MVGLeague/status/842598588131790849
+2017-03-18 16:06:39.828000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :yah yeet yahh
+2017-03-18 16:06:40.082000 :mangohelpmewithmyhw!mangohelpmewithmyhw@mangohelpmewithmyhw.tmi.twitch.tv PRIVMSG #smashstudios :1983
+2017-03-18 16:06:40.668000 :pikmin2!pikmin2@pikmin2.tmi.twitch.tv PRIVMSG #smashstudios :LUL
+2017-03-18 16:06:40.841000 :butfurniture!butfurniture@butfurniture.tmi.twitch.tv PRIVMSG #smashstudios :lffnFalco
+2017-03-18 16:06:41.979000 :asup759!asup759@asup759.tmi.twitch.tv PRIVMSG #smashstudios :didnt have white gloves until SMW probably
+2017-03-18 16:06:42.486000 :somewhatroyal!somewhatroyal@somewhatroyal.tmi.twitch.tv PRIVMSG #smashstudios :mario hurts dude
+2017-03-18 16:06:42.662000 :zarlen001!zarlen001@zarlen001.tmi.twitch.tv PRIVMSG #smashstudios :mangoScorp mangoScorp mangoScorp mangoScorp mangoScorp
+2017-03-18 16:06:42.725000 :weonchileno829!weonchileno829@weonchileno829.tmi.twitch.tv PRIVMSG #smashstudios :another falco main bites the dust
+2017-03-18 16:06:42.985000 :crazypanda47!crazypanda47@crazypanda47.tmi.twitch.tv PRIVMSG #smashstudios :the year is 1980something. everyone plays mario
+2017-03-18 16:06:43.950000 :philimanjar0!philimanjar0@philimanjar0.tmi.twitch.tv PRIVMSG #smashstudios :A rookie inspiring all mario mains
+2017-03-18 16:06:44.298000 :rakazo!rakazo@rakazo.tmi.twitch.tv PRIVMSG #smashstudios :D1 LUL
+2017-03-18 16:06:45.129000 :sabado12xx!sabado12xx@sabado12xx.tmi.twitch.tv PRIVMSG #smashstudios :lol d1
+2017-03-18 16:06:45.147000 :smashmac_!smashmac_@smashmac_.tmi.twitch.tv PRIVMSG #smashstudios :smashD1
+2017-03-18 16:06:45.477000 :fishtype1!fishtype1@fishtype1.tmi.twitch.tv PRIVMSG #smashstudios :lol
+2017-03-18 16:06:45.502000 :cpt_dope!cpt_dope@cpt_dope.tmi.twitch.tv PRIVMSG #smashstudios :being a TriHard main
+2017-03-18 16:06:45.744000 :shady404!shady404@shady404.tmi.twitch.tv PRIVMSG #smashstudios :LOL shutup d1 falco main is not rough
+2017-03-18 16:06:45.914000 :smashstudios!smashstudios@smashstudios.tmi.twitch.tv PRIVMSG #smashstudios :smashD1 smashD1 smashD1 smashD1
+2017-03-18 16:06:46.188000 :ertebak!ertebak@ertebak.tmi.twitch.tv PRIVMSG #smashstudios :d1 LUL
+2017-03-18 16:06:46.870000 :kamikaze5533!kamikaze5533@kamikaze5533.tmi.twitch.tv PRIVMSG #smashstudios :LOL
+2017-03-18 16:06:47.035000 :ya_boi_jubbers!ya_boi_jubbers@ya_boi_jubbers.tmi.twitch.tv PRIVMSG #smashstudios :D1
+2017-03-18 16:06:47.258000 :500ryu!500ryu@500ryu.tmi.twitch.tv PRIVMSG #smashstudios :BibleThump
+2017-03-18 16:06:47.325000 :striketigre!striketigre@striketigre.tmi.twitch.tv PRIVMSG #smashstudios :LOL
+2017-03-18 16:06:47.334000 :failatliving!failatliving@failatliving.tmi.twitch.tv PRIVMSG #smashstudios :LUL
+2017-03-18 16:06:47.779000 :slarvax!slarvax@slarvax.tmi.twitch.tv PRIVMSG #smashstudios :LUL
+2017-03-18 16:06:47.959000 :brainz4gainz!brainz4gainz@brainz4gainz.tmi.twitch.tv PRIVMSG #smashstudios :mangoFalco
+2017-03-18 16:06:48.485000 :bigc2300!bigc2300@bigc2300.tmi.twitch.tv PRIVMSG #smashstudios :LOL
+2017-03-18 16:06:48.700000 :goer_!goer_@goer_.tmi.twitch.tv PRIVMSG #smashstudios :D1
+2017-03-18 16:06:49.555000 :evilfiendkuriboh!evilfiendkuriboh@evilfiendkuriboh.tmi.twitch.tv PRIVMSG #smashstudios :FeelsBadMan
+2017-03-18 16:06:49.694000 :s_tier!s_tier@s_tier.tmi.twitch.tv PRIVMSG #smashstudios :LUL
+2017-03-18 16:06:50.036000 :magicmage256!magicmage256@magicmage256.tmi.twitch.tv PRIVMSG #smashstudios :D1
+2017-03-18 16:06:50.476000 :satchel_paige!satchel_paige@satchel_paige.tmi.twitch.tv PRIVMSG #smashstudios :D1 HeyGuys
+2017-03-18 16:06:50.645000 :goer_!goer_@goer_.tmi.twitch.tv PRIVMSG #smashstudios :OH
+2017-03-18 16:06:51.200000 :deathlessice!deathlessice@deathlessice.tmi.twitch.tv PRIVMSG #smashstudios :lol d1
+2017-03-18 16:06:51.276000 :sand_cat!sand_cat@sand_cat.tmi.twitch.tv PRIVMSG #smashstudios :LUL
+2017-03-18 16:06:51.325000 :v_aasu!v_aasu@v_aasu.tmi.twitch.tv PRIVMSG #smashstudios :lol
+2017-03-18 16:06:51.467000 :ya_boi_jubbers!ya_boi_jubbers@ya_boi_jubbers.tmi.twitch.tv PRIVMSG #smashstudios :LUL LUL LUL
+2017-03-18 16:06:51.609000 :cpt_dope!cpt_dope@cpt_dope.tmi.twitch.tv PRIVMSG #smashstudios :mangoFalco
+2017-03-18 16:06:51.936000 :zenfulgaming!zenfulgaming@zenfulgaming.tmi.twitch.tv PRIVMSG #smashstudios :LOL
+2017-03-18 16:06:52.409000 :kamikaze5533!kamikaze5533@kamikaze5533.tmi.twitch.tv PRIVMSG #smashstudios :YOU ALREADY KNOW
+2017-03-18 16:06:52.492000 :silverjake7!silverjake7@silverjake7.tmi.twitch.tv PRIVMSG #smashstudios :D1 LUL
+2017-03-18 16:06:52.521000 :gwbeeb!gwbeeb@gwbeeb.tmi.twitch.tv PRIVMSG #smashstudios :D1
+2017-03-18 16:06:52.638000 :arick_airwick!arick_airwick@arick_airwick.tmi.twitch.tv PRIVMSG #smashstudios :LUL
+2017-03-18 16:06:52.994000 :jpbayb!jpbayb@jpbayb.tmi.twitch.tv PRIVMSG #smashstudios :YOU ALREADY KNOW
+2017-03-18 16:06:53.079000 :voidknight20!voidknight20@voidknight20.tmi.twitch.tv PRIVMSG #smashstudios :LOL
+2017-03-18 16:06:53.486000 :robbydax!robbydax@robbydax.tmi.twitch.tv PRIVMSG #smashstudios :Falco FeelsBadMan
+2017-03-18 16:06:53.627000 :rizz_khalifa!rizz_khalifa@rizz_khalifa.tmi.twitch.tv PRIVMSG #smashstudios :D1 lolol
+2017-03-18 16:06:54.192000 :guineapigbirthdayparty!guineapigbirthdayparty@guineapigbirthdayparty.tmi.twitch.tv PRIVMSG #smashstudios :lolololol
+2017-03-18 16:06:54.377000 :earrings!earrings@earrings.tmi.twitch.tv PRIVMSG #smashstudios :LUL
+2017-03-18 16:06:54.545000 :darlingtonbjt!darlingtonbjt@darlingtonbjt.tmi.twitch.tv PRIVMSG #smashstudios :LUL
+2017-03-18 16:06:54.697000 :somatic_ssbm!somatic_ssbm@somatic_ssbm.tmi.twitch.tv PRIVMSG #smashstudios :lol
+2017-03-18 16:06:55.509000 :asselin228!asselin228@asselin228.tmi.twitch.tv PRIVMSG #smashstudios :short hop fair just doesnt work with mario idk why he try to do that
+2017-03-18 16:06:55.762000 :arkada17!arkada17@arkada17.tmi.twitch.tv PRIVMSG #smashstudios :Who won??
+2017-03-18 16:06:55.914000 :georgiaokief!georgiaokief@georgiaokief.tmi.twitch.tv PRIVMSG #smashstudios :LOL
+2017-03-18 16:06:56.301000 :thegnomessb!thegnomessb@thegnomessb.tmi.twitch.tv PRIVMSG #smashstudios :LOL
+2017-03-18 16:06:56.814000 :serenade_exe!serenade_exe@serenade_exe.tmi.twitch.tv PRIVMSG #smashstudios :PJSalt D1
+2017-03-18 16:06:56.915000 :toastybacon111!toastybacon111@toastybacon111.tmi.twitch.tv PRIVMSG #smashstudios :"take laser is broken" -kira
+2017-03-18 16:06:56.972000 :mantis__toboggan__!mantis__toboggan__@mantis__toboggan__.tmi.twitch.tv PRIVMSG #smashstudios :kira DansGame
+2017-03-18 16:06:57.177000 :pixelpeasants!pixelpeasants@pixelpeasants.tmi.twitch.tv PRIVMSG #smashstudios :D to the 1 to the 2 to the 3.
+2017-03-18 16:06:57.825000 :butfurniture!butfurniture@butfurniture.tmi.twitch.tv PRIVMSG #smashstudios :lffnFalco lffnFalco
+2017-03-18 16:06:57.955000 :computerslime!computerslime@computerslime.tmi.twitch.tv PRIVMSG #smashstudios :FACTS
+2017-03-18 16:06:58.127000 :doctor_hotel_mario!doctor_hotel_mario@doctor_hotel_mario.tmi.twitch.tv PRIVMSG #smashstudios :LUL D1
+2017-03-18 16:06:58.247000 :darthblumer!darthblumer@darthblumer.tmi.twitch.tv PRIVMSG #smashstudios :no
+2017-03-18 16:06:59.496000 :yume___!yume___@yume___.tmi.twitch.tv PRIVMSG #smashstudios :Falco FeelsBadMan
+2017-03-18 16:06:59.944000 :fishtype1!fishtype1@fishtype1.tmi.twitch.tv PRIVMSG #smashstudios :ROASTED
+2017-03-18 16:07:00.111000 :chetmagongalo!chetmagongalo@chetmagongalo.tmi.twitch.tv PRIVMSG #smashstudios :LOL
+2017-03-18 16:07:00.286000 :thewarrior91!thewarrior91@thewarrior91.tmi.twitch.tv PRIVMSG #smashstudios :PPMD needs to save falco FeelsBadMan
+2017-03-18 16:07:00.722000 :rickshocket!rickshocket@rickshocket.tmi.twitch.tv PRIVMSG #smashstudios :YOU ALREADY KNOW
+2017-03-18 16:07:01.169000 :s_tier!s_tier@s_tier.tmi.twitch.tv PRIVMSG #smashstudios :Falco sucks FeelsBadMan
+2017-03-18 16:07:01.679000 :cucumb_er!cucumb_er@cucumb_er.tmi.twitch.tv PRIVMSG #smashstudios :falco doesn't suck
+2017-03-18 16:07:02.760000 :nawtkool!nawtkool@nawtkool.tmi.twitch.tv PRIVMSG #smashstudios :KIRA? PogChamp
+2017-03-18 16:07:03.120000 :friskyrum!friskyrum@friskyrum.tmi.twitch.tv PRIVMSG #smashstudios :haHAA
+2017-03-18 16:07:03.485000 :melonheadsmith69!melonheadsmith69@melonheadsmith69.tmi.twitch.tv PRIVMSG #smashstudios :Fuck outta here
+2017-03-18 16:07:03.486000 :juniperberriess!juniperberriess@juniperberriess.tmi.twitch.tv PRIVMSG #smashstudios :lmfao
+2017-03-18 16:07:03.621000 :blue_falconeh!blue_falconeh@blue_falconeh.tmi.twitch.tv PRIVMSG #smashstudios :PJSalt
+2017-03-18 16:07:04.009000 :benpup!benpup@benpup.tmi.twitch.tv PRIVMSG #smashstudios :lul
+2017-03-18 16:07:05.007000 :brevlty!brevlty@brevlty.tmi.twitch.tv PRIVMSG #smashstudios :LUL
+2017-03-18 16:07:05.564000 :slarvax!slarvax@slarvax.tmi.twitch.tv PRIVMSG #smashstudios :Kira killed all Falco mains BibleThump
+2017-03-18 16:07:05.786000 :computerslime!computerslime@computerslime.tmi.twitch.tv PRIVMSG #smashstudios :bird life
+2017-03-18 16:07:06.674000 :teammysticalltheway!teammysticalltheway@teammysticalltheway.tmi.twitch.tv PRIVMSG #smashstudios :!bracket
+2017-03-18 16:07:06.920000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :leeel
+2017-03-18 16:07:07.006000 :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #smashstudios :https://smash.gg/tournament/mvg-presents-frame-perfect-series-2-1/events/melee-singles/brackets/99359
+2017-03-18 16:07:07.220000 :kamikazesat!kamikazesat@kamikazesat.tmi.twitch.tv PRIVMSG #smashstudios :LOOOOOOL.
+2017-03-18 16:07:08.112000 :thehiddenboss!thehiddenboss@thehiddenboss.tmi.twitch.tv PRIVMSG #smashstudios :LOOL
+2017-03-18 16:07:09.880000 :crazypanda47!crazypanda47@crazypanda47.tmi.twitch.tv PRIVMSG #smashstudios :falco mains complaining in 2017 LUL
+2017-03-18 16:07:10.969000 :kablaminator!kablaminator@kablaminator.tmi.twitch.tv PRIVMSG #smashstudios :TOP TIER PRIVILEGE
+2017-03-18 16:07:11.176000 :melonheadsmith69!melonheadsmith69@melonheadsmith69.tmi.twitch.tv PRIVMSG #smashstudios :Fucking falco mains
+2017-03-18 16:07:11.420000 :brainz4gainz!brainz4gainz@brainz4gainz.tmi.twitch.tv PRIVMSG #smashstudios :Only PPMD can save mangoFalco
+2017-03-18 16:07:11.782000 :silentocelot!silentocelot@silentocelot.tmi.twitch.tv PRIVMSG #smashstudios :FALCO FeelsBadMan
+2017-03-18 16:07:12.166000 :goobhead!goobhead@goobhead.tmi.twitch.tv PRIVMSG #smashstudios :A ROOKIE TOP 32 WINNER'S Kreygasm
+2017-03-18 16:07:13.032000 :will999909!will999909@will999909.tmi.twitch.tv PRIVMSG #smashstudios :lul
+2017-03-18 16:07:13.672000 :boopersakid!boopersakid@boopersakid.tmi.twitch.tv PRIVMSG #smashstudios :rofl
+2017-03-18 16:07:14.167000 :striketigre!striketigre@striketigre.tmi.twitch.tv PRIVMSG #smashstudios :LMAOOOOOO
+2017-03-18 16:07:14.719000 :pikmin2!pikmin2@pikmin2.tmi.twitch.tv PRIVMSG #smashstudios :FALCO MAINS ON SUICIDE WATCH
+2017-03-18 16:07:14.856000 :evilfiendkuriboh!evilfiendkuriboh@evilfiendkuriboh.tmi.twitch.tv PRIVMSG #smashstudios :WE ALREADY KNOW OUR CHAR SUCKS FeelsBadMan
+2017-03-18 16:07:14.999000 :kmartin003!kmartin003@kmartin003.tmi.twitch.tv PRIVMSG #smashstudios :Falco Sucks - D1
+2017-03-18 16:07:15.095000 :diamond44444444!diamond44444444@diamond44444444.tmi.twitch.tv PRIVMSG #smashstudios :A Rookie Kreygasm
+2017-03-18 16:07:15.157000 :robbydax!robbydax@robbydax.tmi.twitch.tv PRIVMSG #smashstudios :PPMD save us
+2017-03-18 16:07:15.890000 :yume___!yume___@yume___.tmi.twitch.tv PRIVMSG #smashstudios :Falco is awful without PP FeelsBadMan
+2017-03-18 16:07:15.902000 :umbrionknight!umbrionknight@umbrionknight.tmi.twitch.tv PRIVMSG #smashstudios :LOL
+2017-03-18 16:07:16.112000 :thegnomessb!thegnomessb@thegnomessb.tmi.twitch.tv PRIVMSG #smashstudios :A ROOKS
+2017-03-18 16:07:16.153000 :goer_!goer_@goer_.tmi.twitch.tv PRIVMSG #smashstudios :KIRA
+2017-03-18 16:07:16.692000 :mangohelpmewithmyhw!mangohelpmewithmyhw@mangohelpmewithmyhw.tmi.twitch.tv PRIVMSG #smashstudios :nooooo
+2017-03-18 16:07:17.345000 :goer_!goer_@goer_.tmi.twitch.tv PRIVMSG #smashstudios :ok
+2017-03-18 16:07:18.342000 :hyper_flux!hyper_flux@hyper_flux.tmi.twitch.tv PRIVMSG #smashstudios :falco in 2017 LUL
+2017-03-18 16:07:18.427000 :ragoo47!ragoo47@ragoo47.tmi.twitch.tv PRIVMSG #smashstudios :Falco mains, where you at
+2017-03-18 16:07:20.931000 :hot_dogg!hot_dogg@hot_dogg.tmi.twitch.tv PRIVMSG #smashstudios :FeelsGoodMan doubles
+2017-03-18 16:07:21.653000 :pixelpeasants!pixelpeasants@pixelpeasants.tmi.twitch.tv PRIVMSG #smashstudios :Can Falco win a major? Kappa
+2017-03-18 16:07:21.967000 :scarleterror!scarleterror@scarleterror.tmi.twitch.tv PRIVMSG #smashstudios :ResidentSleeper
+2017-03-18 16:07:25.455000 :ya_boi_jubbers!ya_boi_jubbers@ya_boi_jubbers.tmi.twitch.tv PRIVMSG #smashstudios :D1 GET ON THE MIC
+2017-03-18 16:07:26.223000 :benpup!benpup@benpup.tmi.twitch.tv PRIVMSG #smashstudios :THE GREAT MIGRATION
+2017-03-18 16:07:26.962000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :Falco tho :)
+2017-03-18 16:07:27.486000 :misteropulence!misteropulence@misteropulence.tmi.twitch.tv PRIVMSG #smashstudios :Mario is dope in every game.
+2017-03-18 16:07:28.743000 :youngbebop!youngbebop@youngbebop.tmi.twitch.tv PRIVMSG #smashstudios :Doubles DansGame
+2017-03-18 16:07:30.730000 :duxedo!duxedo@duxedo.tmi.twitch.tv PRIVMSG #smashstudios :KappaPride
+2017-03-18 16:07:31.714000 :hoynoyminoy!hoynoyminoy@hoynoyminoy.tmi.twitch.tv PRIVMSG #smashstudios :https://clips.twitch.tv/TriumphantResilientHabaneroRitzMitz
+2017-03-18 16:07:32.075000 :sterowentus!sterowentus@sterowentus.tmi.twitch.tv PRIVMSG #smashstudios :FeelsBadMan PP WOULD KNOW WHAT TO DO
+2017-03-18 16:07:34.130000 :cucumb_er!cucumb_er@cucumb_er.tmi.twitch.tv PRIVMSG #smashstudios :mangoFalco FeelsBadMan
+2017-03-18 16:07:34.415000 :ssbmellendegeneres!ssbmellendegeneres@ssbmellendegeneres.tmi.twitch.tv PRIVMSG #smashstudios :mario is dope man
+2017-03-18 16:07:36.790000 :jeneraljenkins!jeneraljenkins@jeneraljenkins.tmi.twitch.tv PRIVMSG #smashstudios :ugh doubles
+2017-03-18 16:07:40.364000 :p0tbelly!p0tbelly@p0tbelly.tmi.twitch.tv PRIVMSG #smashstudios :!bracket
+2017-03-18 16:07:40.460000 :confuzzled789!confuzzled789@confuzzled789.tmi.twitch.tv PRIVMSG #smashstudios :Moon CiGrip af
+2017-03-18 16:07:40.596000 :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #smashstudios :https://smash.gg/tournament/mvg-presents-frame-perfect-series-2-1/events/melee-singles/brackets/99359
+2017-03-18 16:07:40.747000 :immortalchamp!immortalchamp@immortalchamp.tmi.twitch.tv PRIVMSG #smashstudios :lol
+2017-03-18 16:07:40.795000 :orcarena!orcarena@orcarena.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:07:41.750000 :rakazo!rakazo@rakazo.tmi.twitch.tv PRIVMSG #smashstudios :WESBALLZ WHERE ARE U BibleThump
+2017-03-18 16:07:42.552000 :hot_dogg!hot_dogg@hot_dogg.tmi.twitch.tv PRIVMSG #smashstudios :LUL
+2017-03-18 16:07:42.614000 :mantis__toboggan__!mantis__toboggan__@mantis__toboggan__.tmi.twitch.tv PRIVMSG #smashstudios :MingLee
+2017-03-18 16:07:42.984000 :weonchileno829!weonchileno829@weonchileno829.tmi.twitch.tv PRIVMSG #smashstudios :remember wen porkchops was the crush of 2014?
+2017-03-18 16:07:43.181000 :youngbebop!youngbebop@youngbebop.tmi.twitch.tv PRIVMSG #smashstudios :i hate doubles lol
+2017-03-18 16:07:44.251000 :kablaminator!kablaminator@kablaminator.tmi.twitch.tv PRIVMSG #smashstudios :LUL
+2017-03-18 16:07:47.697000 :kamikaze5533!kamikaze5533@kamikaze5533.tmi.twitch.tv PRIVMSG #smashstudios :WAH
+2017-03-18 16:07:48.970000 :diamond44444444!diamond44444444@diamond44444444.tmi.twitch.tv PRIVMSG #smashstudios :HAMBURGER HELPER
+2017-03-18 16:07:50.260000 :bravo2103!bravo2103@bravo2103.tmi.twitch.tv PRIVMSG #smashstudios :Doubles ResidentSleeper
+2017-03-18 16:07:50.280000 :rizz_khalifa!rizz_khalifa@rizz_khalifa.tmi.twitch.tv PRIVMSG #smashstudios :Wahh
+2017-03-18 16:07:50.664000 :hakasessbm!hakasessbm@hakasessbm.tmi.twitch.tv PRIVMSG #smashstudios :woah that was like 3d
+2017-03-18 16:07:50.702000 :junkyoka!junkyoka@junkyoka.tmi.twitch.tv PRIVMSG #smashstudios :long hair guy is so ugly
+2017-03-18 16:07:51.364000 :dntte!dntte@dntte.tmi.twitch.tv PRIVMSG #smashstudios :DansGame
+2017-03-18 16:07:51.713000 :canusurvive!canusurvive@canusurvive.tmi.twitch.tv PRIVMSG #smashstudios :WAH
+2017-03-18 16:07:52.838000 :concussion_69!concussion_69@concussion_69.tmi.twitch.tv PRIVMSG #smashstudios :WHAT AD
+2017-03-18 16:07:53.025000 :sterowentus!sterowentus@sterowentus.tmi.twitch.tv PRIVMSG #smashstudios :WutFace WAAA
+2017-03-18 16:07:53.579000 :kamikazesat!kamikazesat@kamikazesat.tmi.twitch.tv PRIVMSG #smashstudios :lmfaaaaaao Ryan
+2017-03-18 16:07:53.644000 :wompt!wompt@wompt.tmi.twitch.tv PRIVMSG #smashstudios :Falco dead in 2017 :(
+2017-03-18 16:07:55.872000 :evilfiendkuriboh!evilfiendkuriboh@evilfiendkuriboh.tmi.twitch.tv PRIVMSG #smashstudios :HAMBURGER HELPER
+2017-03-18 16:07:56.231000 :nawtkool!nawtkool@nawtkool.tmi.twitch.tv PRIVMSG #smashstudios :VoHiYo VoHiYo VoHiYo
+2017-03-18 16:07:56.664000 :slarvax!slarvax@slarvax.tmi.twitch.tv PRIVMSG #smashstudios :ANIME DansGame
+2017-03-18 16:07:57.232000 :junokims!junokims@junokims.tmi.twitch.tv PRIVMSG #smashstudios :POTATO
+2017-03-18 16:07:57.293000 :freddyfro!freddyfro@freddyfro.tmi.twitch.tv PRIVMSG #smashstudios :THE MOOOOOON
+2017-03-18 16:07:57.837000 :vanillatown!vanillatown@vanillatown.tmi.twitch.tv PRIVMSG #smashstudios :RUDE
+2017-03-18 16:07:58.082000 :hot_dogg!hot_dogg@hot_dogg.tmi.twitch.tv PRIVMSG #smashstudios :mangoWEEB
+2017-03-18 16:07:58.208000 :brevlty!brevlty@brevlty.tmi.twitch.tv PRIVMSG #smashstudios :AD REEEEEEE
+2017-03-18 16:07:58.440000 :bigc2300!bigc2300@bigc2300.tmi.twitch.tv PRIVMSG #smashstudios :VoHiYo
+2017-03-18 16:07:58.814000 :poseurope!poseurope@poseurope.tmi.twitch.tv PRIVMSG #smashstudios :VoHiYo
+2017-03-18 16:07:59.561000 :bigguppy!bigguppy@bigguppy.tmi.twitch.tv PRIVMSG #smashstudios :weeb
+2017-03-18 16:07:59.579000 :thewarrior91!thewarrior91@thewarrior91.tmi.twitch.tv PRIVMSG #smashstudios :LUL
+2017-03-18 16:07:59.673000 :s_tier!s_tier@s_tier.tmi.twitch.tv PRIVMSG #smashstudios :VoHiYo
+2017-03-18 16:07:59.738000 :cheesetrizprime!cheesetrizprime@cheesetrizprime.tmi.twitch.tv PRIVMSG #smashstudios :BUT WHAT?
+2017-03-18 16:07:59.847000 :kobe7253!kobe7253@kobe7253.tmi.twitch.tv PRIVMSG #smashstudios :falco whos that Kappa
+2017-03-18 16:08:00.240000 :link1356!link1356@link1356.tmi.twitch.tv PRIVMSG #smashstudios :VoHiYo
+2017-03-18 16:08:00.447000 :zspectre!zspectre@zspectre.tmi.twitch.tv PRIVMSG #smashstudios :4Head
+2017-03-18 16:08:00.752000 :an_average_potato_cloud!an_average_potato_cloud@an_average_potato_cloud.tmi.twitch.tv PRIVMSG #smashstudios :VoHiYo
+2017-03-18 16:08:00.967000 :yume___!yume___@yume___.tmi.twitch.tv PRIVMSG #smashstudios :mangoWEEB mangoWEEB mangoWEEB mangoWEEB mangoWEEB mangoWEEB mangoWEEB mangoWEEB
+2017-03-18 16:08:01.782000 :djherrick!djherrick@djherrick.tmi.twitch.tv PRIVMSG #smashstudios :That was a hype Mario. Kreygasm
+2017-03-18 16:08:02.022000 :rakazo!rakazo@rakazo.tmi.twitch.tv PRIVMSG #smashstudios :haHAA
+2017-03-18 16:08:02.117000 :cpt_dope!cpt_dope@cpt_dope.tmi.twitch.tv PRIVMSG #smashstudios :DansGame
+2017-03-18 16:08:02.697000 :dasalabog!dasalabog@dasalabog.tmi.twitch.tv PRIVMSG #smashstudios :mangoWEEB
+2017-03-18 16:08:02.720000 :scroll_of_wisdom!scroll_of_wisdom@scroll_of_wisdom.tmi.twitch.tv PRIVMSG #smashstudios :WHAt are THE TWO MOVES????
+2017-03-18 16:08:03.295000 :wolveywright!wolveywright@wolveywright.tmi.twitch.tv PRIVMSG #smashstudios :lmao
+2017-03-18 16:08:03.852000 :jodeadible!jodeadible@jodeadible.tmi.twitch.tv PRIVMSG #smashstudios :Westballz mains Falco.... that's prolly why he never WINS
+2017-03-18 16:08:04.320000 :subitusattack!subitusattack@subitusattack.tmi.twitch.tv PRIVMSG #smashstudios :LOL
+2017-03-18 16:08:04.726000 :benpup!benpup@benpup.tmi.twitch.tv PRIVMSG #smashstudios :anime DansGame
+2017-03-18 16:08:04.749000 :zeloxus!zeloxus@zeloxus.tmi.twitch.tv PRIVMSG #smashstudios :ViHiYo
+2017-03-18 16:08:05.068000 :nasanka_!nasanka_@nasanka_.tmi.twitch.tv PRIVMSG #smashstudios :VoHiYo
+2017-03-18 16:08:05.889000 :captain_price_!captain_price_@captain_price_.tmi.twitch.tv PRIVMSG #smashstudios :VoHiYo
+2017-03-18 16:08:05.959000 :pandoras_lockbox!pandoras_lockbox@pandoras_lockbox.tmi.twitch.tv PRIVMSG #smashstudios :hboxPog
+2017-03-18 16:08:06.253000 :confuzzled789!confuzzled789@confuzzled789.tmi.twitch.tv PRIVMSG #smashstudios :WEEBS DansGame
+2017-03-18 16:08:06.343000 :drizzyrhyme!drizzyrhyme@drizzyrhyme.tmi.twitch.tv PRIVMSG #smashstudios :What ad Kappa
+2017-03-18 16:08:06.603000 :kmartin003!kmartin003@kmartin003.tmi.twitch.tv PRIVMSG #smashstudios :Droppin that nollidge
+2017-03-18 16:08:07.523000 :rizz_khalifa!rizz_khalifa@rizz_khalifa.tmi.twitch.tv PRIVMSG #smashstudios :Naruto Kreygasm
+2017-03-18 16:08:07.850000 :imaritspiker!imaritspiker@imaritspiker.tmi.twitch.tv PRIVMSG #smashstudios :mangoWeeb
+2017-03-18 16:08:07.893000 :arick_airwick!arick_airwick@arick_airwick.tmi.twitch.tv PRIVMSG #smashstudios :VoHiYo
+2017-03-18 16:08:08.182000 :orcarena!orcarena@orcarena.tmi.twitch.tv PRIVMSG #smashstudios :TheIlluminati TheIlluminati TheIlluminati
+2017-03-18 16:08:08.397000 :yetiapocalypse!yetiapocalypse@yetiapocalypse.tmi.twitch.tv PRIVMSG #smashstudios :mangoWEEB mangoWEEB mangoWEEB mangoWEEB
+2017-03-18 16:08:08.574000 :crispy_rice!crispy_rice@crispy_rice.tmi.twitch.tv PRIVMSG #smashstudios :mangoWEEB mangoWEEB mangoWEEB
+2017-03-18 16:08:09.041000 :hot_dogg!hot_dogg@hot_dogg.tmi.twitch.tv PRIVMSG #smashstudios :mangoWEEB mangoWEEB mangoWEEB
+2017-03-18 16:08:09.219000 :alphaj0717!alphaj0717@alphaj0717.tmi.twitch.tv PRIVMSG #smashstudios :Dr Mario with the Chidoro
+2017-03-18 16:08:09.469000 :diamond44444444!diamond44444444@diamond44444444.tmi.twitch.tv PRIVMSG #smashstudios :PogChamp
+2017-03-18 16:08:09.927000 :tripledeckerpbj!tripledeckerpbj@tripledeckerpbj.tmi.twitch.tv PRIVMSG #smashstudios :LOL
+2017-03-18 16:08:09.992000 :drowzyboi!drowzyboi@drowzyboi.tmi.twitch.tv PRIVMSG #smashstudios :what is moon talking about LUL
+2017-03-18 16:08:10.049000 :voester!voester@voester.tmi.twitch.tv PRIVMSG #smashstudios :mangoWEEB mangoWEEB mangoWEEB
+2017-03-18 16:08:10.122000 :afrodius!afrodius@afrodius.tmi.twitch.tv PRIVMSG #smashstudios :wEEB
+2017-03-18 16:08:10.192000 :itzcrazyangel!itzcrazyangel@itzcrazyangel.tmi.twitch.tv PRIVMSG #smashstudios :Fucking *** Nerd!
+2017-03-18 16:08:10.550000 :zeloxus!zeloxus@zeloxus.tmi.twitch.tv PRIVMSG #smashstudios :VoHiYo
+2017-03-18 16:08:10.617000 :beachpatrolofficial!beachpatrolofficial@beachpatrolofficial.tmi.twitch.tv PRIVMSG #smashstudios :LMAO
+2017-03-18 16:08:10.745000 :lastmoony!lastmoony@lastmoony.tmi.twitch.tv PRIVMSG #smashstudios :POTATO
+2017-03-18 16:08:11.673000 :misteropulence!misteropulence@misteropulence.tmi.twitch.tv PRIVMSG #smashstudios :LOOOOL
+2017-03-18 16:08:12.339000 :concussion_69!concussion_69@concussion_69.tmi.twitch.tv PRIVMSG #smashstudios :@SmashStudios, nice ad
+2017-03-18 16:08:12.862000 :darlingtonbjt!darlingtonbjt@darlingtonbjt.tmi.twitch.tv PRIVMSG #smashstudios :wtf moon lmao
+2017-03-18 16:08:12.889000 :poseurope!poseurope@poseurope.tmi.twitch.tv PRIVMSG #smashstudios :VoHiYo a n i m e t i d d i e s VoHiYo
+2017-03-18 16:08:13 :dntte!dntte@dntte.tmi.twitch.tv PRIVMSG #s
