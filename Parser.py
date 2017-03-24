@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import sys
 
 FILENAME = "fullLog3.txt"
 PARSED_FILE = "parsed3.txt"
@@ -11,46 +12,55 @@ def main():
         counter = 1
         for line in file:
             line = clean(line)
+            #print line
             log_file.write(line)
-            
+
+    log_file.close()
     plot(PARSED_FILE)
-def plot(FILENAME):
+
+
+def plot(name):                 #plots responses vs time in 1 minute intervals
     y = []
     x = []
 
-    timestamp = ""
-    with open(FILENAME) as file:
+    first = firstline(name)
+
+    list = str.split(first)             #gets initial timestamp
+    timestamp = list[1][:-10]
+
+    with open(name) as file:
         counter = 1
         for line in file:
-            line = clean(line)
-
+            print line
             if line != "":                      #sorts based on the second
 
                 list = str.split(line)
-                if len(list[1]) != 15:
+                if len(list[1]) != 15:          #skip any line with improperly formated timestamp
                     continue
 
                 if list[1][:-10] == timestamp:
                     counter += 1
                 else:
-                    print counter
-                    timestamp = list[1][:-10]
-                    print timestamp
-                    second = timestamp.replace(":", "")
-
+                    second = timestamp.replace(":", "")     #once timestamp changes, add the message count and stamp
                     x.append(int(second))
-
+                    timestamp = list[1][:-10]
                     y.append(counter)
-                    counter = 1
 
+                    counter = 1
+        x.append(int(timestamp.replace(":","")))        #final data points
+        y.append(counter)
     fig = plt.figure()
     ax = fig.add_subplot(111)
-    plt.plot(x,y, 'ro-')
+    plt.plot(x,y, 'ro-')            #plot
     for xy in zip(x,y):                                       # <--
         ax.annotate('(%s, %s)' % xy, xy=xy, textcoords='data') # <--
 
     plt.grid()
     plt.show()
+
+def firstline(name):
+    with open(name) as file:
+        return file.readline()
 
 def clean(line):                  #tests for chat message
     list = str.split(line)
