@@ -16,10 +16,32 @@ def main():
             log_file.write(line)
 
     log_file.close()
-    plot(PARSED_FILE)
+    wordFrequency(PARSED_FILE)
 
+def wordFrequency(name):                    #count frequency of words
+    wordcount = {}
+    with open(name) as file:
+        for line in file:
 
-def plot(name):                 #plots responses vs time in 1 minute intervals
+            array = line.split()
+
+            if len(array) <= 2:
+                continue
+            array[2] = array[2][1:]
+
+            for i in range(2, len(array)):
+                word = array[i].lower()
+                if word in wordcount:
+                    wordcount[word] += 1
+                else:
+                    wordcount[word] = 1
+    return wordcount
+    #wordcount_view = [(v,k) for (k,v) in wordcount.iteritems()]
+    #wordcount_view.sort()
+    #for v,k in wordcount_view:
+    #   print "%s: %d" % (k,v)
+
+def messageFrequency(name):                 #plots responses vs time in 1 minute intervals
     y = []
     x = []
 
